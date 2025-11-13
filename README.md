@@ -135,7 +135,7 @@ MIT (or your chosen license). Add a LICENSE file in the repo root.
 
 Live app: https://smartspoongit-cxae2giwh4pwg2r7qjfdmt.streamlit.app/
 
-GitHub: https://github.com/<your-username>/<your-repo>
+GitHub: https://github.com/Erikston/Smart_Spoon/
 
 Email: uarbrb@gmail.com
 
