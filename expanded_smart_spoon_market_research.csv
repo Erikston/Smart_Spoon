@@ -1,0 +1,501 @@
+Age,Gender,Low_Sodium_Diet,Diet_Condition,Dining_Frequency,Low_Sodium_Satisfaction,Add_Salt_Condiments,Taste_Enhancement_Tech_Aware,Interest_In_Device,Importance_Of_Taste_Enhancement,Expected_Device_Features,Purchase_Consideration,Concerns_On_Technology,Salt_Usage_Dal_Gojju_Palya,Salt_Usage_Sambar_Rasam_Curd,Salt_Usage_Biryani_Pulao_Rice,Salt_Usage_Curry,Salt_Usage_Snacks,Salt_Usage_Roti_Paratha,Salt_Usage_Pickles_Papad,Salt_Opinion
+58,Male,Yes,Other,Weekly,Yes,Always,Yes,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Yes,,¼ tsp,¼ tsp,More than 1 tsp,More than 1 tsp,No Salt,More than 1 tsp,¼ tsp,Too Bland
+59,Other,No,None,Weekly,No,Never,No,Yes,Very Important,"Dietary tracking features, Portable design",No,Safety,¼ tsp,½ tsp,No Salt,No Salt,1 tsp,No Salt,½ tsp,Too Salty
+56,Female,Yes,None,Daily,No,Always,No,No,Not Important,"Portable design, Mobile app integration",Yes,,¼ tsp,½ tsp,No Salt,¼ tsp,No Salt,1 tsp,½ tsp,Too Salty
+58,Female,Yes,Other,Monthly,Yes,Never,No,Yes,Not Important,"Portable design, Mobile app integration",Maybe,Safety,¼ tsp,1 tsp,1 tsp,½ tsp,More than 1 tsp,¼ tsp,½ tsp,Perfect
+32,Male,No,None,Rarely,No,Always,Yes,No,Very Important,"Dietary tracking features, Portable design",Maybe,Price,¼ tsp,½ tsp,¼ tsp,¼ tsp,More than 1 tsp,More than 1 tsp,½ tsp,Too Bland
+55,Female,No,None,Monthly,Yes,Always,No,Yes,Very Important,"Adjustable intensity, Dietary tracking features",Maybe,Safety,1 tsp,More than 1 tsp,No Salt,1 tsp,1 tsp,More than 1 tsp,1 tsp,Too Bland
+34,Other,Yes,Hypertension,Monthly,Sometimes,Sometimes,Yes,No,Moderately Important,"Portable design, Dietary tracking features",Yes,Effectiveness,More than 1 tsp,¼ tsp,More than 1 tsp,No Salt,½ tsp,More than 1 tsp,More than 1 tsp,Perfect
+27,Female,Yes,Hypertension,Monthly,No,Always,Yes,No,Moderately Important,"Portable design, Adjustable intensity",Yes,,No Salt,1 tsp,No Salt,More than 1 tsp,¼ tsp,¼ tsp,1 tsp,Too Bland
+28,Female,No,None,Weekly,Sometimes,Never,Yes,No,Moderately Important,"Mobile app integration, Portable design",Maybe,Price,No Salt,¼ tsp,¼ tsp,No Salt,½ tsp,No Salt,More than 1 tsp,Too Bland
+32,Other,Yes,Hypertension,Daily,Sometimes,Never,Yes,Yes,Very Important,"Adjustable intensity, Portable design",Yes,Safety,½ tsp,1 tsp,¼ tsp,More than 1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,Too Salty
+33,Female,No,None,Weekly,Yes,Always,No,No,Moderately Important,"Dietary tracking features, Portable design",Maybe,,No Salt,No Salt,1 tsp,½ tsp,No Salt,¼ tsp,¼ tsp,Perfect
+52,Female,Yes,None,Weekly,No,Sometimes,Yes,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",Maybe,,No Salt,¼ tsp,¼ tsp,1 tsp,1 tsp,1 tsp,¼ tsp,Too Salty
+21,Male,No,None,Daily,No,Sometimes,No,No,Moderately Important,"Dietary tracking features, Adjustable intensity",Yes,Effectiveness,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,No Salt,½ tsp,No Salt,Perfect
+55,Female,Yes,Hypertension,Daily,Yes,Always,Yes,Yes,Moderately Important,"Adjustable intensity, Mobile app integration",Yes,,More than 1 tsp,No Salt,1 tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,½ tsp,Too Salty
+31,Other,No,None,Weekly,No,Sometimes,Yes,No,Moderately Important,"Mobile app integration, Adjustable intensity",Yes,Price,More than 1 tsp,More than 1 tsp,No Salt,No Salt,More than 1 tsp,¼ tsp,More than 1 tsp,Too Salty
+26,Female,Yes,Kidney Disease,Monthly,No,Always,No,No,Not Important,"Adjustable intensity, Mobile app integration",Maybe,Effectiveness,No Salt,¼ tsp,½ tsp,No Salt,No Salt,More than 1 tsp,¼ tsp,Too Salty
+36,Other,Yes,Other,Weekly,Sometimes,Never,No,No,Moderately Important,"Adjustable intensity, Dietary tracking features",Maybe,Price,½ tsp,No Salt,No Salt,½ tsp,¼ tsp,½ tsp,¼ tsp,Too Bland
+46,Other,No,None,Daily,Yes,Always,Yes,Yes,Moderately Important,"Portable design, Dietary tracking features",Yes,,½ tsp,½ tsp,No Salt,½ tsp,¼ tsp,¼ tsp,No Salt,Too Salty
+67,Other,No,None,Weekly,Yes,Always,Yes,No,Very Important,"Portable design, Mobile app integration",No,Price,¼ tsp,½ tsp,¼ tsp,No Salt,1 tsp,No Salt,1 tsp,Perfect
+30,Female,No,None,Monthly,Yes,Always,Yes,Yes,Moderately Important,"Mobile app integration, Portable design",Yes,Effectiveness,½ tsp,More than 1 tsp,1 tsp,More than 1 tsp,½ tsp,No Salt,No Salt,Too Salty
+29,Other,No,None,Daily,Yes,Never,No,No,Not Important,"Mobile app integration, Portable design",Maybe,,1 tsp,More than 1 tsp,¼ tsp,½ tsp,No Salt,1 tsp,No Salt,Too Bland
+69,Other,Yes,Other,Rarely,Yes,Never,No,No,Not Important,"Adjustable intensity, Mobile app integration",No,Effectiveness,1 tsp,½ tsp,1 tsp,½ tsp,More than 1 tsp,¼ tsp,¼ tsp,Too Salty
+60,Female,Yes,Other,Rarely,Sometimes,Always,No,No,Very Important,"Dietary tracking features, Mobile app integration",Maybe,Effectiveness,1 tsp,1 tsp,1 tsp,¼ tsp,More than 1 tsp,1 tsp,¼ tsp,Too Bland
+23,Female,No,None,Daily,Yes,Never,No,Yes,Very Important,"Portable design, Adjustable intensity",Yes,Safety,1 tsp,More than 1 tsp,No Salt,1 tsp,1 tsp,More than 1 tsp,¼ tsp,Too Bland
+62,Female,No,None,Rarely,Yes,Always,Yes,Yes,Moderately Important,"Portable design, Adjustable intensity",Maybe,Price,No Salt,More than 1 tsp,¼ tsp,No Salt,1 tsp,¼ tsp,1 tsp,Too Bland
+51,Other,No,None,Rarely,Sometimes,Never,No,No,Very Important,"Dietary tracking features, Portable design",No,Safety,½ tsp,More than 1 tsp,1 tsp,¼ tsp,½ tsp,1 tsp,No Salt,Too Bland
+36,Male,No,None,Monthly,No,Never,Yes,Yes,Very Important,"Portable design, Dietary tracking features",Maybe,Safety,¼ tsp,No Salt,1 tsp,1 tsp,½ tsp,More than 1 tsp,1 tsp,Too Salty
+21,Male,No,None,Rarely,Sometimes,Never,Yes,No,Moderately Important,"Adjustable intensity, Portable design",No,Price,1 tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,¼ tsp,1 tsp,¼ tsp,Too Salty
+45,Female,Yes,None,Monthly,Sometimes,Never,No,Yes,Moderately Important,"Portable design, Mobile app integration",Maybe,,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,No Salt,1 tsp,¼ tsp,Too Salty
+29,Male,No,None,Rarely,No,Always,No,No,Moderately Important,"Dietary tracking features, Portable design",No,Effectiveness,No Salt,1 tsp,No Salt,More than 1 tsp,No Salt,½ tsp,¼ tsp,Too Bland
+22,Other,Yes,Hypertension,Weekly,Yes,Always,Yes,Yes,Very Important,"Dietary tracking features, Mobile app integration",Yes,Safety,1 tsp,½ tsp,½ tsp,¼ tsp,More than 1 tsp,More than 1 tsp,No Salt,Perfect
+37,Male,Yes,Other,Rarely,No,Never,Yes,Yes,Not Important,"Portable design, Adjustable intensity",Maybe,Effectiveness,More than 1 tsp,No Salt,More than 1 tsp,No Salt,½ tsp,More than 1 tsp,1 tsp,Too Bland
+41,Male,No,None,Daily,No,Sometimes,Yes,No,Moderately Important,"Dietary tracking features, Mobile app integration",Yes,Price,¼ tsp,More than 1 tsp,½ tsp,More than 1 tsp,More than 1 tsp,1 tsp,1 tsp,Too Salty
+70,Other,No,None,Monthly,Yes,Always,No,No,Very Important,"Dietary tracking features, Mobile app integration",Maybe,Price,½ tsp,No Salt,1 tsp,½ tsp,¼ tsp,1 tsp,¼ tsp,Too Salty
+69,Female,No,None,Monthly,Sometimes,Never,No,Yes,Not Important,"Portable design, Adjustable intensity",Yes,Price,1 tsp,More than 1 tsp,¼ tsp,1 tsp,1 tsp,1 tsp,No Salt,Perfect
+36,Male,No,None,Weekly,No,Never,No,No,Not Important,"Mobile app integration, Portable design",Maybe,Effectiveness,½ tsp,1 tsp,½ tsp,½ tsp,½ tsp,¼ tsp,No Salt,Too Bland
+30,Female,Yes,Kidney Disease,Weekly,Yes,Never,No,No,Not Important,"Mobile app integration, Adjustable intensity",Yes,Effectiveness,¼ tsp,½ tsp,¼ tsp,½ tsp,No Salt,More than 1 tsp,¼ tsp,Too Salty
+20,Male,No,None,Weekly,Sometimes,Sometimes,Yes,Yes,Not Important,"Mobile app integration, Portable design",No,Price,½ tsp,¼ tsp,No Salt,½ tsp,1 tsp,No Salt,No Salt,Too Salty
+49,Male,Yes,Kidney Disease,Weekly,Sometimes,Sometimes,Yes,Yes,Very Important,"Dietary tracking features, Mobile app integration",Maybe,Safety,More than 1 tsp,1 tsp,1 tsp,1 tsp,½ tsp,More than 1 tsp,1 tsp,Too Salty
+54,Other,Yes,Hypertension,Weekly,Sometimes,Always,No,Yes,Very Important,"Portable design, Adjustable intensity",Maybe,,¼ tsp,No Salt,1 tsp,1 tsp,More than 1 tsp,1 tsp,½ tsp,Perfect
+32,Female,No,None,Rarely,Yes,Never,Yes,No,Not Important,"Portable design, Dietary tracking features",Yes,Safety,¼ tsp,½ tsp,¼ tsp,No Salt,No Salt,¼ tsp,½ tsp,Too Bland
+65,Other,No,None,Rarely,Yes,Sometimes,No,No,Moderately Important,"Dietary tracking features, Portable design",Yes,,1 tsp,½ tsp,More than 1 tsp,½ tsp,No Salt,No Salt,¼ tsp,Too Bland
+54,Other,Yes,Other,Daily,Yes,Sometimes,No,No,Very Important,"Dietary tracking features, Mobile app integration",No,,1 tsp,½ tsp,1 tsp,½ tsp,½ tsp,No Salt,¼ tsp,Too Salty
+44,Other,No,None,Monthly,Sometimes,Sometimes,Yes,No,Very Important,"Mobile app integration, Portable design",No,,1 tsp,More than 1 tsp,No Salt,More than 1 tsp,1 tsp,1 tsp,No Salt,Perfect
+51,Female,No,None,Rarely,Yes,Always,No,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",No,,No Salt,More than 1 tsp,¼ tsp,¼ tsp,½ tsp,More than 1 tsp,No Salt,Too Bland
+44,Male,Yes,Hypertension,Rarely,Yes,Never,Yes,No,Not Important,"Mobile app integration, Dietary tracking features",Maybe,Effectiveness,1 tsp,1 tsp,1 tsp,¼ tsp,1 tsp,More than 1 tsp,¼ tsp,Too Salty
+30,Other,Yes,Hypertension,Monthly,No,Sometimes,No,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",Maybe,Price,¼ tsp,1 tsp,More than 1 tsp,1 tsp,½ tsp,½ tsp,More than 1 tsp,Too Bland
+42,Female,No,None,Weekly,Sometimes,Always,No,Yes,Moderately Important,"Adjustable intensity, Portable design",Maybe,Price,1 tsp,1 tsp,¼ tsp,1 tsp,No Salt,¼ tsp,More than 1 tsp,Too Bland
+39,Male,No,None,Daily,Sometimes,Sometimes,Yes,Yes,Moderately Important,"Portable design, Adjustable intensity",No,Effectiveness,½ tsp,More than 1 tsp,1 tsp,No Salt,½ tsp,More than 1 tsp,1 tsp,Too Salty
+58,Other,No,None,Daily,Sometimes,Always,Yes,No,Very Important,"Adjustable intensity, Portable design",Yes,,1 tsp,¼ tsp,½ tsp,No Salt,No Salt,½ tsp,No Salt,Too Salty
+40,Female,No,None,Weekly,Yes,Never,No,Yes,Very Important,"Portable design, Adjustable intensity",Maybe,Price,More than 1 tsp,¼ tsp,1 tsp,More than 1 tsp,¼ tsp,¼ tsp,1 tsp,Too Bland
+34,Female,No,None,Daily,No,Sometimes,Yes,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",No,Price,½ tsp,1 tsp,½ tsp,¼ tsp,1 tsp,1 tsp,No Salt,Perfect
+42,Other,No,None,Monthly,Sometimes,Sometimes,Yes,No,Moderately Important,"Adjustable intensity, Mobile app integration",Maybe,,More than 1 tsp,1 tsp,½ tsp,¼ tsp,More than 1 tsp,½ tsp,¼ tsp,Too Bland
+30,Other,No,None,Weekly,Sometimes,Always,Yes,No,Moderately Important,"Adjustable intensity, Mobile app integration",No,Safety,No Salt,½ tsp,½ tsp,1 tsp,¼ tsp,¼ tsp,¼ tsp,Too Bland
+41,Other,No,None,Weekly,No,Sometimes,No,No,Very Important,"Dietary tracking features, Adjustable intensity",Yes,Safety,1 tsp,More than 1 tsp,½ tsp,No Salt,1 tsp,No Salt,½ tsp,Too Bland
+25,Female,No,None,Monthly,Sometimes,Sometimes,No,Yes,Not Important,"Portable design, Dietary tracking features",Yes,Effectiveness,More than 1 tsp,¼ tsp,No Salt,1 tsp,½ tsp,1 tsp,No Salt,Perfect
+20,Male,No,None,Rarely,Yes,Always,Yes,Yes,Moderately Important,"Dietary tracking features, Portable design",Maybe,Price,More than 1 tsp,¼ tsp,1 tsp,No Salt,1 tsp,More than 1 tsp,1 tsp,Too Salty
+20,Other,No,None,Weekly,No,Sometimes,Yes,No,Very Important,"Mobile app integration, Dietary tracking features",Maybe,Effectiveness,No Salt,1 tsp,½ tsp,¼ tsp,No Salt,1 tsp,No Salt,Too Bland
+31,Other,Yes,Hypertension,Monthly,Yes,Always,Yes,Yes,Not Important,"Portable design, Mobile app integration",Yes,Safety,½ tsp,¼ tsp,More than 1 tsp,No Salt,½ tsp,¼ tsp,¼ tsp,Too Bland
+34,Male,Yes,Hypertension,Weekly,Yes,Sometimes,Yes,No,Very Important,"Portable design, Dietary tracking features",Yes,Safety,1 tsp,More than 1 tsp,No Salt,No Salt,1 tsp,1 tsp,½ tsp,Too Bland
+55,Male,No,None,Weekly,Sometimes,Always,No,No,Not Important,"Adjustable intensity, Dietary tracking features",No,Price,1 tsp,No Salt,1 tsp,1 tsp,No Salt,No Salt,½ tsp,Too Bland
+27,Male,Yes,Other,Monthly,No,Never,No,No,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,,More than 1 tsp,¼ tsp,1 tsp,1 tsp,¼ tsp,1 tsp,½ tsp,Too Salty
+43,Female,Yes,Other,Rarely,No,Never,No,No,Very Important,"Dietary tracking features, Adjustable intensity",Yes,,No Salt,1 tsp,No Salt,½ tsp,¼ tsp,More than 1 tsp,No Salt,Too Bland
+53,Other,No,None,Daily,No,Sometimes,No,Yes,Moderately Important,"Mobile app integration, Portable design",Yes,Safety,¼ tsp,1 tsp,¼ tsp,No Salt,½ tsp,More than 1 tsp,½ tsp,Perfect
+66,Female,Yes,None,Daily,Sometimes,Never,No,Yes,Very Important,"Mobile app integration, Dietary tracking features",No,Effectiveness,½ tsp,No Salt,¼ tsp,¼ tsp,More than 1 tsp,1 tsp,No Salt,Perfect
+65,Other,Yes,Hypertension,Weekly,No,Sometimes,No,No,Very Important,"Mobile app integration, Portable design",Maybe,Effectiveness,More than 1 tsp,More than 1 tsp,No Salt,No Salt,¼ tsp,¼ tsp,More than 1 tsp,Perfect
+61,Male,No,None,Rarely,Sometimes,Sometimes,No,No,Moderately Important,"Mobile app integration, Adjustable intensity",Maybe,,½ tsp,1 tsp,No Salt,½ tsp,More than 1 tsp,1 tsp,More than 1 tsp,Too Bland
+37,Male,Yes,None,Daily,Yes,Always,No,Yes,Very Important,"Mobile app integration, Portable design",No,,No Salt,1 tsp,1 tsp,¼ tsp,¼ tsp,1 tsp,More than 1 tsp,Too Bland
+32,Other,No,None,Daily,No,Never,Yes,No,Very Important,"Dietary tracking features, Adjustable intensity",No,Price,More than 1 tsp,1 tsp,1 tsp,½ tsp,No Salt,1 tsp,No Salt,Too Salty
+28,Other,No,None,Monthly,Yes,Sometimes,Yes,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",Yes,Price,½ tsp,½ tsp,¼ tsp,½ tsp,¼ tsp,No Salt,More than 1 tsp,Too Bland
+25,Other,Yes,Other,Monthly,Sometimes,Never,Yes,Yes,Very Important,"Portable design, Dietary tracking features",Yes,Safety,More than 1 tsp,¼ tsp,No Salt,¼ tsp,1 tsp,1 tsp,More than 1 tsp,Too Bland
+46,Other,No,None,Monthly,Yes,Sometimes,Yes,No,Moderately Important,"Mobile app integration, Portable design",Maybe,,½ tsp,More than 1 tsp,No Salt,½ tsp,1 tsp,1 tsp,No Salt,Perfect
+41,Female,Yes,Hypertension,Rarely,No,Never,Yes,No,Not Important,"Portable design, Dietary tracking features",Maybe,Price,More than 1 tsp,¼ tsp,No Salt,1 tsp,No Salt,½ tsp,No Salt,Too Bland
+59,Male,Yes,Kidney Disease,Rarely,No,Never,Yes,No,Moderately Important,"Mobile app integration, Portable design",No,Effectiveness,More than 1 tsp,No Salt,½ tsp,No Salt,½ tsp,No Salt,More than 1 tsp,Too Bland
+42,Female,No,None,Weekly,No,Always,Yes,No,Moderately Important,"Dietary tracking features, Adjustable intensity",Maybe,,½ tsp,More than 1 tsp,1 tsp,½ tsp,¼ tsp,More than 1 tsp,No Salt,Too Bland
+60,Female,No,None,Daily,No,Sometimes,Yes,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",Yes,Safety,¼ tsp,No Salt,½ tsp,No Salt,More than 1 tsp,More than 1 tsp,More than 1 tsp,Perfect
+60,Female,Yes,None,Weekly,Yes,Always,Yes,No,Very Important,"Dietary tracking features, Portable design",Maybe,Safety,1 tsp,More than 1 tsp,½ tsp,1 tsp,¼ tsp,More than 1 tsp,¼ tsp,Too Salty
+69,Female,Yes,Other,Rarely,No,Sometimes,No,No,Very Important,"Portable design, Mobile app integration",Yes,Effectiveness,No Salt,1 tsp,½ tsp,More than 1 tsp,No Salt,More than 1 tsp,No Salt,Too Salty
+23,Male,No,None,Rarely,Sometimes,Always,No,Yes,Very Important,"Dietary tracking features, Portable design",Yes,Price,No Salt,1 tsp,More than 1 tsp,½ tsp,¼ tsp,1 tsp,No Salt,Too Salty
+32,Male,No,None,Daily,Sometimes,Never,No,Yes,Very Important,"Adjustable intensity, Portable design",No,Safety,1 tsp,1 tsp,More than 1 tsp,No Salt,No Salt,No Salt,½ tsp,Perfect
+27,Other,No,None,Daily,No,Always,No,Yes,Very Important,"Portable design, Dietary tracking features",Maybe,Price,No Salt,No Salt,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,More than 1 tsp,Too Bland
+33,Other,Yes,Other,Rarely,Yes,Never,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,,More than 1 tsp,½ tsp,No Salt,More than 1 tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,Too Bland
+19,Female,No,None,Daily,Sometimes,Sometimes,No,No,Not Important,"Adjustable intensity, Portable design",Yes,Effectiveness,¼ tsp,No Salt,More than 1 tsp,½ tsp,¼ tsp,No Salt,½ tsp,Too Bland
+39,Other,Yes,None,Rarely,Sometimes,Always,Yes,Yes,Not Important,"Dietary tracking features, Adjustable intensity",No,Safety,No Salt,¼ tsp,No Salt,½ tsp,½ tsp,More than 1 tsp,1 tsp,Too Bland
+48,Female,Yes,Kidney Disease,Monthly,No,Always,No,No,Very Important,"Mobile app integration, Portable design",No,Price,1 tsp,½ tsp,¼ tsp,1 tsp,1 tsp,½ tsp,More than 1 tsp,Too Salty
+69,Male,No,None,Daily,No,Never,Yes,No,Moderately Important,"Adjustable intensity, Dietary tracking features",No,Effectiveness,½ tsp,1 tsp,More than 1 tsp,1 tsp,¼ tsp,1 tsp,½ tsp,Too Salty
+20,Other,No,None,Rarely,No,Never,Yes,Yes,Not Important,"Dietary tracking features, Portable design",Maybe,Safety,No Salt,¼ tsp,More than 1 tsp,1 tsp,No Salt,¼ tsp,No Salt,Perfect
+67,Other,No,None,Monthly,No,Never,Yes,Yes,Not Important,"Dietary tracking features, Portable design",No,Price,No Salt,More than 1 tsp,¼ tsp,More than 1 tsp,½ tsp,1 tsp,½ tsp,Too Bland
+35,Male,Yes,Hypertension,Weekly,No,Never,No,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",No,Safety,More than 1 tsp,½ tsp,1 tsp,¼ tsp,No Salt,¼ tsp,No Salt,Too Salty
+29,Other,No,None,Daily,Sometimes,Sometimes,No,Yes,Not Important,"Mobile app integration, Portable design",Yes,Safety,½ tsp,More than 1 tsp,¼ tsp,No Salt,¼ tsp,¼ tsp,¼ tsp,Too Salty
+19,Female,No,None,Rarely,Sometimes,Always,Yes,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",Maybe,Price,More than 1 tsp,1 tsp,1 tsp,More than 1 tsp,No Salt,¼ tsp,½ tsp,Too Bland
+22,Female,No,None,Monthly,Yes,Never,Yes,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",Maybe,Safety,½ tsp,¼ tsp,¼ tsp,½ tsp,¼ tsp,½ tsp,More than 1 tsp,Too Salty
+23,Female,Yes,Other,Weekly,Sometimes,Sometimes,Yes,Yes,Not Important,"Portable design, Adjustable intensity",Maybe,Effectiveness,More than 1 tsp,No Salt,No Salt,No Salt,No Salt,More than 1 tsp,½ tsp,Too Bland
+31,Other,No,None,Daily,No,Never,No,No,Moderately Important,"Portable design, Mobile app integration",No,Effectiveness,1 tsp,No Salt,No Salt,¼ tsp,1 tsp,1 tsp,1 tsp,Too Salty
+31,Female,Yes,Other,Monthly,Sometimes,Sometimes,No,Yes,Moderately Important,"Adjustable intensity, Portable design",Yes,Price,No Salt,½ tsp,1 tsp,¼ tsp,¼ tsp,No Salt,No Salt,Too Salty
+42,Other,No,None,Weekly,Yes,Sometimes,No,Yes,Very Important,"Dietary tracking features, Mobile app integration",No,Price,½ tsp,1 tsp,No Salt,No Salt,1 tsp,More than 1 tsp,1 tsp,Perfect
+31,Other,No,None,Daily,Yes,Sometimes,No,No,Moderately Important,"Adjustable intensity, Dietary tracking features",No,Safety,½ tsp,½ tsp,1 tsp,½ tsp,No Salt,1 tsp,No Salt,Too Bland
+53,Male,No,None,Monthly,Yes,Sometimes,No,No,Not Important,"Adjustable intensity, Dietary tracking features",Yes,Price,½ tsp,½ tsp,More than 1 tsp,½ tsp,¼ tsp,¼ tsp,More than 1 tsp,Too Bland
+43,Other,Yes,Hypertension,Daily,Yes,Never,No,No,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,Safety,½ tsp,More than 1 tsp,½ tsp,¼ tsp,1 tsp,More than 1 tsp,½ tsp,Too Bland
+39,Other,No,None,Monthly,No,Always,No,No,Not Important,"Adjustable intensity, Portable design",Maybe,Effectiveness,No Salt,More than 1 tsp,1 tsp,½ tsp,More than 1 tsp,More than 1 tsp,¼ tsp,Too Bland
+21,Other,No,None,Weekly,Sometimes,Never,No,Yes,Not Important,"Portable design, Adjustable intensity",Maybe,,¼ tsp,No Salt,1 tsp,½ tsp,1 tsp,¼ tsp,1 tsp,Too Bland
+31,Female,No,None,Daily,Sometimes,Always,Yes,No,Not Important,"Dietary tracking features, Mobile app integration",No,Effectiveness,¼ tsp,1 tsp,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,½ tsp,Too Bland
+48,Male,Yes,Other,Monthly,Yes,Sometimes,No,Yes,Not Important,"Dietary tracking features, Portable design",No,Effectiveness,More than 1 tsp,½ tsp,½ tsp,No Salt,More than 1 tsp,More than 1 tsp,1 tsp,Too Salty
+70,Female,Yes,Other,Daily,No,Never,Yes,No,Moderately Important,"Mobile app integration, Dietary tracking features",No,Safety,¼ tsp,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,¼ tsp,No Salt,Too Bland
+65,Other,Yes,Kidney Disease,Daily,Sometimes,Never,Yes,Yes,Very Important,"Adjustable intensity, Portable design",No,Price,No Salt,¼ tsp,No Salt,More than 1 tsp,¼ tsp,1 tsp,1 tsp,Too Salty
+59,Male,No,None,Monthly,No,Never,Yes,Yes,Not Important,"Portable design, Mobile app integration",Maybe,,¼ tsp,1 tsp,¼ tsp,No Salt,1 tsp,1 tsp,¼ tsp,Too Bland
+36,Male,Yes,Other,Daily,No,Sometimes,No,No,Very Important,"Dietary tracking features, Portable design",Yes,,½ tsp,¼ tsp,1 tsp,½ tsp,¼ tsp,No Salt,½ tsp,Too Salty
+54,Other,Yes,Kidney Disease,Rarely,No,Never,No,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",Yes,Price,½ tsp,¼ tsp,No Salt,½ tsp,1 tsp,¼ tsp,1 tsp,Too Salty
+39,Female,Yes,Other,Monthly,Sometimes,Always,Yes,Yes,Moderately Important,"Mobile app integration, Adjustable intensity",No,Effectiveness,No Salt,½ tsp,½ tsp,More than 1 tsp,¼ tsp,¼ tsp,¼ tsp,Too Salty
+27,Female,No,None,Rarely,Sometimes,Never,No,Yes,Very Important,"Adjustable intensity, Mobile app integration",No,Effectiveness,No Salt,More than 1 tsp,No Salt,No Salt,More than 1 tsp,More than 1 tsp,¼ tsp,Too Bland
+52,Male,Yes,Other,Rarely,Yes,Never,Yes,No,Very Important,"Dietary tracking features, Adjustable intensity",No,Safety,More than 1 tsp,1 tsp,1 tsp,More than 1 tsp,No Salt,More than 1 tsp,1 tsp,Too Bland
+69,Female,Yes,None,Monthly,Yes,Never,Yes,Yes,Very Important,"Dietary tracking features, Portable design",Maybe,,More than 1 tsp,No Salt,No Salt,1 tsp,No Salt,½ tsp,1 tsp,Perfect
+67,Male,No,None,Monthly,No,Sometimes,No,No,Very Important,"Portable design, Mobile app integration",No,,¼ tsp,More than 1 tsp,1 tsp,More than 1 tsp,¼ tsp,¼ tsp,No Salt,Perfect
+37,Female,No,None,Rarely,Yes,Always,No,No,Very Important,"Mobile app integration, Adjustable intensity",Maybe,,No Salt,1 tsp,More than 1 tsp,No Salt,¼ tsp,¼ tsp,No Salt,Perfect
+56,Male,No,None,Daily,Yes,Never,Yes,No,Moderately Important,"Portable design, Mobile app integration",Yes,,¼ tsp,More than 1 tsp,½ tsp,¼ tsp,More than 1 tsp,½ tsp,More than 1 tsp,Too Bland
+67,Other,No,None,Weekly,No,Always,Yes,No,Moderately Important,"Mobile app integration, Adjustable intensity",Maybe,Safety,1 tsp,More than 1 tsp,1 tsp,No Salt,½ tsp,1 tsp,More than 1 tsp,Too Salty
+62,Female,No,None,Weekly,No,Sometimes,Yes,No,Very Important,"Portable design, Dietary tracking features",Maybe,Safety,1 tsp,No Salt,More than 1 tsp,1 tsp,1 tsp,More than 1 tsp,More than 1 tsp,Perfect
+42,Male,No,None,Weekly,No,Never,Yes,No,Moderately Important,"Adjustable intensity, Mobile app integration",Maybe,Safety,No Salt,½ tsp,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,No Salt,Perfect
+69,Other,Yes,None,Weekly,No,Sometimes,Yes,Yes,Very Important,"Adjustable intensity, Mobile app integration",No,Safety,More than 1 tsp,¼ tsp,1 tsp,¼ tsp,More than 1 tsp,½ tsp,½ tsp,Too Salty
+47,Other,No,None,Monthly,No,Sometimes,No,No,Very Important,"Dietary tracking features, Portable design",Yes,Effectiveness,½ tsp,1 tsp,No Salt,More than 1 tsp,¼ tsp,¼ tsp,No Salt,Too Salty
+53,Other,No,None,Monthly,Yes,Always,No,Yes,Moderately Important,"Portable design, Dietary tracking features",Maybe,Effectiveness,½ tsp,1 tsp,1 tsp,1 tsp,¼ tsp,½ tsp,¼ tsp,Perfect
+64,Other,No,None,Weekly,Sometimes,Never,Yes,Yes,Very Important,"Adjustable intensity, Dietary tracking features",No,Safety,¼ tsp,No Salt,¼ tsp,No Salt,¼ tsp,More than 1 tsp,1 tsp,Too Salty
+21,Other,No,None,Rarely,Yes,Always,No,Yes,Very Important,"Mobile app integration, Dietary tracking features",No,,More than 1 tsp,1 tsp,¼ tsp,No Salt,No Salt,More than 1 tsp,¼ tsp,Perfect
+30,Other,No,None,Monthly,No,Sometimes,Yes,No,Moderately Important,"Dietary tracking features, Mobile app integration",Yes,Safety,½ tsp,No Salt,No Salt,No Salt,1 tsp,1 tsp,1 tsp,Too Bland
+48,Male,Yes,Kidney Disease,Daily,No,Sometimes,No,Yes,Not Important,"Adjustable intensity, Dietary tracking features",Yes,Price,½ tsp,No Salt,No Salt,½ tsp,More than 1 tsp,More than 1 tsp,No Salt,Perfect
+38,Male,Yes,Kidney Disease,Rarely,Yes,Sometimes,Yes,Yes,Not Important,"Dietary tracking features, Mobile app integration",Maybe,Effectiveness,1 tsp,¼ tsp,No Salt,More than 1 tsp,½ tsp,No Salt,No Salt,Too Salty
+32,Male,No,None,Rarely,No,Always,No,No,Moderately Important,"Portable design, Dietary tracking features",Maybe,Price,1 tsp,¼ tsp,More than 1 tsp,1 tsp,No Salt,More than 1 tsp,½ tsp,Perfect
+63,Male,Yes,Other,Weekly,No,Never,Yes,No,Moderately Important,"Mobile app integration, Adjustable intensity",Yes,,½ tsp,1 tsp,½ tsp,½ tsp,No Salt,¼ tsp,No Salt,Perfect
+45,Female,No,None,Daily,Yes,Always,No,Yes,Not Important,"Mobile app integration, Portable design",Yes,Effectiveness,1 tsp,1 tsp,No Salt,More than 1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,Perfect
+61,Female,Yes,Kidney Disease,Monthly,No,Sometimes,No,Yes,Very Important,"Portable design, Dietary tracking features",No,Price,½ tsp,1 tsp,No Salt,½ tsp,½ tsp,¼ tsp,1 tsp,Too Bland
+57,Male,No,None,Daily,Yes,Sometimes,Yes,No,Moderately Important,"Dietary tracking features, Portable design",No,Effectiveness,1 tsp,More than 1 tsp,¼ tsp,½ tsp,½ tsp,More than 1 tsp,¼ tsp,Too Salty
+38,Male,No,None,Monthly,No,Never,No,Yes,Moderately Important,"Dietary tracking features, Portable design",No,Effectiveness,No Salt,More than 1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,Perfect
+64,Female,Yes,None,Monthly,Sometimes,Always,No,No,Very Important,"Mobile app integration, Adjustable intensity",No,Safety,1 tsp,1 tsp,No Salt,1 tsp,More than 1 tsp,1 tsp,More than 1 tsp,Too Salty
+52,Other,No,None,Daily,No,Never,Yes,Yes,Very Important,"Mobile app integration, Adjustable intensity",Maybe,,More than 1 tsp,1 tsp,½ tsp,1 tsp,No Salt,No Salt,No Salt,Too Salty
+32,Other,Yes,None,Monthly,No,Sometimes,Yes,No,Very Important,"Dietary tracking features, Adjustable intensity",No,Price,No Salt,No Salt,¼ tsp,½ tsp,½ tsp,½ tsp,1 tsp,Perfect
+51,Female,No,None,Rarely,Yes,Sometimes,No,No,Very Important,"Mobile app integration, Adjustable intensity",Maybe,,No Salt,½ tsp,No Salt,¼ tsp,¼ tsp,More than 1 tsp,¼ tsp,Too Bland
+28,Female,No,None,Rarely,Yes,Sometimes,Yes,Yes,Not Important,"Dietary tracking features, Portable design",Yes,Safety,1 tsp,More than 1 tsp,1 tsp,1 tsp,No Salt,¼ tsp,¼ tsp,Too Salty
+66,Other,Yes,Hypertension,Weekly,No,Sometimes,Yes,No,Very Important,"Mobile app integration, Dietary tracking features",No,Effectiveness,More than 1 tsp,1 tsp,More than 1 tsp,1 tsp,More than 1 tsp,No Salt,½ tsp,Too Salty
+47,Other,Yes,Other,Daily,Sometimes,Always,No,Yes,Very Important,"Mobile app integration, Adjustable intensity",Yes,Effectiveness,¼ tsp,More than 1 tsp,1 tsp,1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,Too Salty
+45,Male,No,None,Weekly,Sometimes,Always,No,No,Very Important,"Portable design, Dietary tracking features",No,,½ tsp,No Salt,1 tsp,¼ tsp,¼ tsp,1 tsp,More than 1 tsp,Too Bland
+59,Female,No,None,Rarely,No,Never,No,No,Very Important,"Adjustable intensity, Mobile app integration",Yes,Safety,½ tsp,No Salt,½ tsp,¼ tsp,More than 1 tsp,½ tsp,¼ tsp,Too Salty
+54,Other,No,None,Daily,Sometimes,Always,No,No,Not Important,"Adjustable intensity, Mobile app integration",No,Safety,1 tsp,No Salt,¼ tsp,½ tsp,No Salt,1 tsp,½ tsp,Too Salty
+70,Male,No,None,Daily,Yes,Always,No,No,Very Important,"Portable design, Adjustable intensity",Yes,,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,More than 1 tsp,More than 1 tsp,¼ tsp,Too Salty
+63,Female,No,None,Monthly,Sometimes,Never,Yes,Yes,Moderately Important,"Adjustable intensity, Portable design",Maybe,Safety,¼ tsp,¼ tsp,¼ tsp,½ tsp,¼ tsp,1 tsp,1 tsp,Perfect
+54,Other,No,None,Rarely,No,Sometimes,Yes,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",No,Price,1 tsp,½ tsp,More than 1 tsp,No Salt,No Salt,1 tsp,½ tsp,Perfect
+68,Other,No,None,Weekly,No,Always,No,No,Moderately Important,"Mobile app integration, Portable design",Maybe,Safety,More than 1 tsp,1 tsp,½ tsp,No Salt,No Salt,No Salt,1 tsp,Perfect
+25,Male,No,None,Rarely,Yes,Sometimes,Yes,Yes,Not Important,"Mobile app integration, Adjustable intensity",No,,½ tsp,½ tsp,No Salt,½ tsp,¼ tsp,No Salt,1 tsp,Too Bland
+37,Other,Yes,None,Daily,Sometimes,Always,Yes,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",Maybe,Safety,More than 1 tsp,1 tsp,No Salt,No Salt,½ tsp,No Salt,1 tsp,Too Bland
+26,Female,Yes,Kidney Disease,Rarely,Yes,Never,Yes,Yes,Moderately Important,"Mobile app integration, Portable design",Yes,Price,¼ tsp,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,No Salt,More than 1 tsp,Too Bland
+28,Female,No,None,Weekly,Sometimes,Never,Yes,No,Not Important,"Dietary tracking features, Adjustable intensity",Yes,,¼ tsp,No Salt,More than 1 tsp,1 tsp,½ tsp,1 tsp,½ tsp,Perfect
+33,Female,Yes,Kidney Disease,Monthly,Sometimes,Always,No,Yes,Not Important,"Portable design, Mobile app integration",No,Effectiveness,No Salt,¼ tsp,1 tsp,1 tsp,No Salt,¼ tsp,1 tsp,Too Bland
+56,Male,Yes,Other,Monthly,Yes,Sometimes,No,No,Not Important,"Portable design, Dietary tracking features",Yes,,More than 1 tsp,No Salt,No Salt,½ tsp,¼ tsp,No Salt,No Salt,Too Salty
+50,Female,No,None,Rarely,Sometimes,Sometimes,Yes,Yes,Moderately Important,"Adjustable intensity, Portable design",Yes,Safety,¼ tsp,More than 1 tsp,½ tsp,1 tsp,More than 1 tsp,No Salt,½ tsp,Too Bland
+45,Other,Yes,Hypertension,Weekly,Yes,Sometimes,Yes,No,Not Important,"Adjustable intensity, Portable design",Maybe,Safety,No Salt,No Salt,¼ tsp,No Salt,¼ tsp,1 tsp,½ tsp,Too Bland
+51,Other,No,None,Weekly,No,Always,No,Yes,Very Important,"Mobile app integration, Portable design",No,,½ tsp,More than 1 tsp,No Salt,1 tsp,1 tsp,More than 1 tsp,½ tsp,Perfect
+49,Other,Yes,Other,Weekly,No,Always,Yes,Yes,Not Important,"Adjustable intensity, Dietary tracking features",Yes,Safety,No Salt,1 tsp,½ tsp,1 tsp,¼ tsp,¼ tsp,No Salt,Too Bland
+69,Other,No,None,Weekly,No,Always,No,No,Moderately Important,"Adjustable intensity, Mobile app integration",No,,More than 1 tsp,No Salt,¼ tsp,¼ tsp,More than 1 tsp,No Salt,1 tsp,Perfect
+47,Female,No,None,Monthly,Yes,Never,No,Yes,Moderately Important,"Portable design, Dietary tracking features",Maybe,Effectiveness,More than 1 tsp,¼ tsp,1 tsp,½ tsp,More than 1 tsp,1 tsp,¼ tsp,Too Bland
+52,Male,Yes,Hypertension,Rarely,Yes,Always,No,Yes,Moderately Important,"Adjustable intensity, Mobile app integration",No,Effectiveness,No Salt,¼ tsp,More than 1 tsp,¼ tsp,1 tsp,1 tsp,No Salt,Perfect
+63,Female,Yes,Hypertension,Weekly,Sometimes,Sometimes,No,No,Not Important,"Adjustable intensity, Mobile app integration",Yes,Safety,1 tsp,No Salt,More than 1 tsp,More than 1 tsp,No Salt,1 tsp,¼ tsp,Perfect
+36,Female,No,None,Rarely,Sometimes,Never,No,No,Moderately Important,"Mobile app integration, Adjustable intensity",Yes,Safety,¼ tsp,More than 1 tsp,No Salt,¼ tsp,No Salt,¼ tsp,1 tsp,Too Salty
+38,Female,Yes,Other,Weekly,No,Sometimes,No,No,Very Important,"Adjustable intensity, Dietary tracking features",Maybe,Effectiveness,More than 1 tsp,No Salt,¼ tsp,½ tsp,¼ tsp,No Salt,¼ tsp,Too Salty
+43,Other,Yes,Other,Monthly,Yes,Always,No,No,Not Important,"Portable design, Adjustable intensity",No,,¼ tsp,No Salt,No Salt,No Salt,¼ tsp,¼ tsp,¼ tsp,Too Salty
+41,Other,Yes,Other,Daily,Yes,Always,Yes,No,Very Important,"Adjustable intensity, Portable design",Yes,,1 tsp,No Salt,¼ tsp,More than 1 tsp,1 tsp,1 tsp,1 tsp,Perfect
+42,Other,No,None,Weekly,No,Always,Yes,No,Moderately Important,"Dietary tracking features, Adjustable intensity",Yes,Safety,½ tsp,1 tsp,1 tsp,More than 1 tsp,1 tsp,No Salt,No Salt,Too Salty
+42,Male,No,None,Weekly,Sometimes,Never,Yes,Yes,Moderately Important,"Mobile app integration, Portable design",Maybe,Price,½ tsp,More than 1 tsp,More than 1 tsp,½ tsp,1 tsp,½ tsp,¼ tsp,Perfect
+38,Other,Yes,Hypertension,Monthly,Yes,Sometimes,No,Yes,Very Important,"Adjustable intensity, Dietary tracking features",Maybe,Safety,½ tsp,More than 1 tsp,No Salt,¼ tsp,More than 1 tsp,1 tsp,½ tsp,Perfect
+29,Male,No,None,Monthly,Sometimes,Always,No,Yes,Not Important,"Portable design, Dietary tracking features",Maybe,Effectiveness,¼ tsp,1 tsp,No Salt,No Salt,No Salt,¼ tsp,More than 1 tsp,Perfect
+19,Other,No,None,Daily,No,Never,Yes,Yes,Moderately Important,"Portable design, Dietary tracking features",Yes,,¼ tsp,More than 1 tsp,¼ tsp,No Salt,More than 1 tsp,½ tsp,No Salt,Too Salty
+63,Other,No,None,Daily,No,Sometimes,No,Yes,Very Important,"Dietary tracking features, Mobile app integration",No,Effectiveness,¼ tsp,More than 1 tsp,More than 1 tsp,½ tsp,¼ tsp,More than 1 tsp,¼ tsp,Too Salty
+37,Other,No,None,Weekly,Yes,Never,Yes,No,Not Important,"Adjustable intensity, Dietary tracking features",Maybe,Effectiveness,More than 1 tsp,¼ tsp,More than 1 tsp,No Salt,1 tsp,¼ tsp,½ tsp,Too Bland
+22,Male,No,None,Monthly,Yes,Never,Yes,No,Moderately Important,"Adjustable intensity, Portable design",Yes,Safety,No Salt,½ tsp,½ tsp,No Salt,No Salt,No Salt,1 tsp,Too Salty
+64,Female,Yes,None,Rarely,No,Sometimes,No,Yes,Moderately Important,"Portable design, Adjustable intensity",No,,No Salt,½ tsp,No Salt,½ tsp,½ tsp,No Salt,No Salt,Too Salty
+28,Female,Yes,Hypertension,Daily,No,Never,No,Yes,Moderately Important,"Portable design, Mobile app integration",No,Safety,No Salt,No Salt,½ tsp,¼ tsp,¼ tsp,1 tsp,More than 1 tsp,Too Bland
+64,Other,No,None,Monthly,No,Always,Yes,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",Yes,Effectiveness,No Salt,1 tsp,No Salt,½ tsp,More than 1 tsp,1 tsp,¼ tsp,Perfect
+19,Male,Yes,Other,Daily,No,Always,No,No,Moderately Important,"Dietary tracking features, Mobile app integration",No,,More than 1 tsp,1 tsp,¼ tsp,½ tsp,1 tsp,½ tsp,¼ tsp,Too Salty
+20,Female,No,None,Rarely,No,Always,No,Yes,Very Important,"Adjustable intensity, Dietary tracking features",Maybe,Effectiveness,More than 1 tsp,1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,No Salt,1 tsp,Too Bland
+44,Other,No,None,Weekly,No,Sometimes,Yes,No,Not Important,"Adjustable intensity, Mobile app integration",Maybe,Safety,No Salt,1 tsp,¼ tsp,¼ tsp,¼ tsp,¼ tsp,¼ tsp,Perfect
+45,Male,No,None,Weekly,Sometimes,Always,No,No,Not Important,"Adjustable intensity, Dietary tracking features",No,Price,More than 1 tsp,½ tsp,½ tsp,More than 1 tsp,1 tsp,No Salt,More than 1 tsp,Too Bland
+51,Female,Yes,None,Weekly,Yes,Never,Yes,Yes,Not Important,"Adjustable intensity, Portable design",Maybe,Effectiveness,1 tsp,½ tsp,1 tsp,1 tsp,More than 1 tsp,More than 1 tsp,1 tsp,Perfect
+29,Female,No,None,Weekly,Sometimes,Never,No,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",Yes,,1 tsp,½ tsp,½ tsp,No Salt,½ tsp,½ tsp,½ tsp,Too Salty
+49,Other,Yes,Kidney Disease,Weekly,No,Never,No,No,Moderately Important,"Dietary tracking features, Mobile app integration",Maybe,,¼ tsp,1 tsp,¼ tsp,1 tsp,1 tsp,More than 1 tsp,½ tsp,Perfect
+50,Male,Yes,Other,Rarely,Yes,Never,Yes,Yes,Very Important,"Portable design, Adjustable intensity",Yes,,1 tsp,No Salt,½ tsp,¼ tsp,½ tsp,½ tsp,1 tsp,Too Bland
+43,Other,Yes,Hypertension,Weekly,No,Sometimes,No,Yes,Moderately Important,"Mobile app integration, Portable design",Yes,Effectiveness,No Salt,½ tsp,No Salt,1 tsp,No Salt,¼ tsp,More than 1 tsp,Perfect
+32,Other,Yes,Kidney Disease,Monthly,Sometimes,Sometimes,Yes,Yes,Moderately Important,"Portable design, Mobile app integration",Yes,,¼ tsp,½ tsp,More than 1 tsp,½ tsp,½ tsp,1 tsp,1 tsp,Too Salty
+47,Female,Yes,None,Monthly,Sometimes,Never,No,Yes,Very Important,"Mobile app integration, Dietary tracking features",Maybe,Effectiveness,½ tsp,No Salt,1 tsp,No Salt,½ tsp,½ tsp,½ tsp,Too Salty
+34,Other,No,None,Weekly,Yes,Never,Yes,Yes,Not Important,"Dietary tracking features, Mobile app integration",No,Safety,No Salt,1 tsp,½ tsp,½ tsp,1 tsp,1 tsp,1 tsp,Too Bland
+20,Other,Yes,Other,Weekly,Sometimes,Never,No,No,Not Important,"Mobile app integration, Adjustable intensity",Maybe,Safety,½ tsp,No Salt,1 tsp,¼ tsp,½ tsp,More than 1 tsp,¼ tsp,Too Bland
+39,Other,Yes,Kidney Disease,Monthly,Yes,Never,No,No,Moderately Important,"Mobile app integration, Portable design",Maybe,Effectiveness,1 tsp,No Salt,1 tsp,No Salt,More than 1 tsp,More than 1 tsp,More than 1 tsp,Perfect
+48,Male,Yes,None,Monthly,No,Always,Yes,Yes,Very Important,"Mobile app integration, Portable design",Maybe,Price,¼ tsp,½ tsp,¼ tsp,No Salt,1 tsp,½ tsp,¼ tsp,Too Salty
+58,Male,Yes,None,Monthly,Yes,Always,Yes,No,Very Important,"Portable design, Mobile app integration",No,Price,1 tsp,1 tsp,1 tsp,1 tsp,No Salt,No Salt,More than 1 tsp,Perfect
+64,Female,Yes,Other,Weekly,Yes,Never,Yes,Yes,Very Important,"Mobile app integration, Portable design",Yes,,1 tsp,More than 1 tsp,More than 1 tsp,½ tsp,¼ tsp,No Salt,No Salt,Too Salty
+36,Female,No,None,Rarely,Sometimes,Always,No,No,Moderately Important,"Portable design, Adjustable intensity",No,,¼ tsp,¼ tsp,¼ tsp,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,Perfect
+25,Female,Yes,None,Monthly,Sometimes,Never,Yes,Yes,Not Important,"Adjustable intensity, Mobile app integration",Yes,,No Salt,1 tsp,1 tsp,1 tsp,No Salt,More than 1 tsp,½ tsp,Too Salty
+62,Male,Yes,Hypertension,Monthly,No,Never,Yes,No,Not Important,"Portable design, Dietary tracking features",Yes,,½ tsp,No Salt,No Salt,1 tsp,¼ tsp,More than 1 tsp,¼ tsp,Too Salty
+51,Male,No,None,Rarely,No,Always,Yes,No,Very Important,"Dietary tracking features, Portable design",Yes,,No Salt,No Salt,No Salt,More than 1 tsp,1 tsp,¼ tsp,No Salt,Too Bland
+22,Other,Yes,Other,Weekly,No,Sometimes,No,No,Very Important,"Adjustable intensity, Dietary tracking features",Yes,Effectiveness,½ tsp,½ tsp,1 tsp,No Salt,No Salt,No Salt,No Salt,Perfect
+60,Other,Yes,Other,Monthly,No,Never,No,Yes,Moderately Important,"Mobile app integration, Adjustable intensity",Yes,Price,1 tsp,1 tsp,½ tsp,1 tsp,1 tsp,1 tsp,¼ tsp,Perfect
+26,Other,Yes,Kidney Disease,Daily,No,Never,No,No,Very Important,"Dietary tracking features, Portable design",Maybe,,¼ tsp,1 tsp,1 tsp,No Salt,1 tsp,1 tsp,No Salt,Perfect
+34,Other,No,None,Daily,Sometimes,Never,Yes,No,Not Important,"Adjustable intensity, Portable design",Maybe,Safety,1 tsp,½ tsp,1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,No Salt,Perfect
+59,Male,No,None,Rarely,Yes,Always,No,No,Very Important,"Mobile app integration, Portable design",Yes,Safety,More than 1 tsp,1 tsp,1 tsp,¼ tsp,No Salt,1 tsp,1 tsp,Too Bland
+46,Male,No,None,Rarely,No,Always,No,Yes,Very Important,"Dietary tracking features, Portable design",Yes,,No Salt,More than 1 tsp,More than 1 tsp,½ tsp,More than 1 tsp,More than 1 tsp,¼ tsp,Too Bland
+60,Female,No,None,Monthly,Yes,Always,No,No,Not Important,"Dietary tracking features, Mobile app integration",Maybe,Effectiveness,1 tsp,No Salt,No Salt,¼ tsp,No Salt,½ tsp,½ tsp,Too Bland
+69,Female,No,None,Daily,Yes,Always,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",No,Safety,¼ tsp,No Salt,1 tsp,¼ tsp,1 tsp,¼ tsp,½ tsp,Perfect
+66,Female,Yes,Hypertension,Rarely,No,Never,Yes,No,Very Important,"Adjustable intensity, Mobile app integration",No,Price,More than 1 tsp,¼ tsp,More than 1 tsp,¼ tsp,¼ tsp,No Salt,1 tsp,Too Bland
+56,Other,No,None,Rarely,No,Never,Yes,No,Moderately Important,"Mobile app integration, Portable design",No,Safety,¼ tsp,1 tsp,More than 1 tsp,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,Too Bland
+65,Other,Yes,Kidney Disease,Weekly,Sometimes,Never,No,No,Not Important,"Portable design, Mobile app integration",Maybe,Safety,More than 1 tsp,More than 1 tsp,½ tsp,No Salt,½ tsp,More than 1 tsp,1 tsp,Too Bland
+54,Other,No,None,Monthly,No,Always,Yes,Yes,Moderately Important,"Portable design, Adjustable intensity",Maybe,,¼ tsp,½ tsp,¼ tsp,½ tsp,½ tsp,¼ tsp,No Salt,Too Bland
+68,Female,Yes,Hypertension,Monthly,No,Always,Yes,No,Very Important,"Mobile app integration, Dietary tracking features",Maybe,,1 tsp,1 tsp,1 tsp,½ tsp,More than 1 tsp,No Salt,No Salt,Too Bland
+34,Male,No,None,Weekly,Sometimes,Never,No,Yes,Not Important,"Portable design, Dietary tracking features",No,Safety,No Salt,¼ tsp,¼ tsp,More than 1 tsp,No Salt,1 tsp,No Salt,Too Salty
+35,Other,No,None,Weekly,Yes,Never,No,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",Yes,,¼ tsp,½ tsp,More than 1 tsp,No Salt,More than 1 tsp,½ tsp,1 tsp,Too Bland
+53,Female,Yes,Other,Weekly,Yes,Never,Yes,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",No,Safety,¼ tsp,½ tsp,½ tsp,½ tsp,½ tsp,¼ tsp,More than 1 tsp,Too Bland
+48,Other,Yes,Hypertension,Monthly,No,Always,Yes,Yes,Not Important,"Mobile app integration, Portable design",Yes,Price,½ tsp,More than 1 tsp,½ tsp,No Salt,More than 1 tsp,½ tsp,More than 1 tsp,Too Bland
+46,Female,Yes,Other,Weekly,No,Never,Yes,Yes,Very Important,"Adjustable intensity, Mobile app integration",Yes,Safety,¼ tsp,1 tsp,No Salt,¼ tsp,More than 1 tsp,1 tsp,No Salt,Too Bland
+61,Male,Yes,None,Monthly,Yes,Always,Yes,Yes,Very Important,"Mobile app integration, Dietary tracking features",Yes,Safety,½ tsp,1 tsp,1 tsp,1 tsp,1 tsp,1 tsp,½ tsp,Perfect
+42,Other,Yes,Hypertension,Daily,Sometimes,Never,Yes,Yes,Moderately Important,"Adjustable intensity, Portable design",Maybe,Effectiveness,More than 1 tsp,No Salt,½ tsp,1 tsp,1 tsp,1 tsp,No Salt,Too Salty
+28,Other,Yes,Kidney Disease,Rarely,Sometimes,Sometimes,Yes,No,Not Important,"Mobile app integration, Adjustable intensity",Maybe,Safety,No Salt,No Salt,No Salt,More than 1 tsp,More than 1 tsp,1 tsp,More than 1 tsp,Too Bland
+23,Female,Yes,Other,Weekly,No,Never,Yes,Yes,Very Important,"Portable design, Mobile app integration",No,Safety,No Salt,¼ tsp,More than 1 tsp,No Salt,More than 1 tsp,1 tsp,More than 1 tsp,Perfect
+36,Other,Yes,Other,Daily,Yes,Never,No,No,Moderately Important,"Portable design, Mobile app integration",Maybe,Safety,No Salt,½ tsp,More than 1 tsp,No Salt,¼ tsp,½ tsp,1 tsp,Too Salty
+39,Other,No,None,Weekly,Sometimes,Never,No,No,Moderately Important,"Portable design, Adjustable intensity",No,Safety,¼ tsp,1 tsp,½ tsp,½ tsp,¼ tsp,½ tsp,1 tsp,Too Salty
+46,Female,No,None,Rarely,Sometimes,Always,Yes,Yes,Moderately Important,"Portable design, Mobile app integration",Yes,Effectiveness,No Salt,No Salt,No Salt,More than 1 tsp,No Salt,More than 1 tsp,More than 1 tsp,Too Salty
+67,Other,Yes,Hypertension,Monthly,Sometimes,Never,No,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",Maybe,Effectiveness,¼ tsp,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,1 tsp,½ tsp,Too Bland
+18,Other,Yes,Kidney Disease,Weekly,No,Always,Yes,Yes,Not Important,"Dietary tracking features, Portable design",Yes,Safety,1 tsp,¼ tsp,No Salt,½ tsp,½ tsp,¼ tsp,No Salt,Too Bland
+31,Other,No,None,Rarely,No,Sometimes,Yes,Yes,Not Important,"Mobile app integration, Adjustable intensity",Maybe,Effectiveness,½ tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,¼ tsp,1 tsp,1 tsp,Too Salty
+55,Other,Yes,Other,Rarely,Yes,Never,No,No,Moderately Important,"Dietary tracking features, Portable design",Maybe,,More than 1 tsp,¼ tsp,1 tsp,¼ tsp,¼ tsp,No Salt,More than 1 tsp,Too Bland
+35,Male,Yes,Kidney Disease,Weekly,No,Never,Yes,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",Yes,Price,1 tsp,1 tsp,¼ tsp,More than 1 tsp,¼ tsp,1 tsp,No Salt,Perfect
+20,Male,Yes,Kidney Disease,Daily,Sometimes,Always,Yes,Yes,Moderately Important,"Portable design, Mobile app integration",No,,½ tsp,No Salt,¼ tsp,1 tsp,More than 1 tsp,1 tsp,1 tsp,Perfect
+32,Female,Yes,Kidney Disease,Monthly,Yes,Never,No,No,Not Important,"Adjustable intensity, Dietary tracking features",No,Price,¼ tsp,No Salt,No Salt,¼ tsp,More than 1 tsp,More than 1 tsp,1 tsp,Perfect
+56,Male,Yes,None,Daily,Sometimes,Never,Yes,Yes,Moderately Important,"Portable design, Mobile app integration",Maybe,,1 tsp,More than 1 tsp,1 tsp,½ tsp,No Salt,More than 1 tsp,1 tsp,Perfect
+69,Female,No,None,Monthly,Sometimes,Never,Yes,No,Very Important,"Mobile app integration, Portable design",Yes,,½ tsp,More than 1 tsp,More than 1 tsp,1 tsp,½ tsp,¼ tsp,No Salt,Too Bland
+65,Male,Yes,Hypertension,Rarely,Sometimes,Always,No,No,Moderately Important,"Adjustable intensity, Dietary tracking features",No,Effectiveness,½ tsp,More than 1 tsp,1 tsp,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,Too Bland
+43,Male,No,None,Rarely,Yes,Sometimes,No,No,Moderately Important,"Mobile app integration, Dietary tracking features",No,Safety,No Salt,¼ tsp,1 tsp,¼ tsp,No Salt,¼ tsp,More than 1 tsp,Too Salty
+68,Female,Yes,Kidney Disease,Rarely,Sometimes,Always,Yes,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",Yes,Effectiveness,¼ tsp,½ tsp,No Salt,More than 1 tsp,No Salt,1 tsp,1 tsp,Too Bland
+59,Other,No,None,Daily,Yes,Never,No,No,Very Important,"Portable design, Mobile app integration",Maybe,Effectiveness,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,Perfect
+61,Male,No,None,Weekly,Sometimes,Always,Yes,Yes,Moderately Important,"Dietary tracking features, Portable design",Maybe,Price,1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,No Salt,No Salt,No Salt,Too Bland
+36,Other,No,None,Monthly,No,Always,Yes,No,Moderately Important,"Adjustable intensity, Portable design",Yes,Price,More than 1 tsp,No Salt,More than 1 tsp,No Salt,More than 1 tsp,½ tsp,½ tsp,Perfect
+69,Other,No,None,Monthly,Sometimes,Sometimes,No,No,Very Important,"Mobile app integration, Portable design",Maybe,Price,More than 1 tsp,No Salt,1 tsp,No Salt,½ tsp,No Salt,1 tsp,Too Bland
+68,Male,Yes,Other,Rarely,No,Never,Yes,No,Very Important,"Mobile app integration, Adjustable intensity",No,Effectiveness,No Salt,More than 1 tsp,¼ tsp,1 tsp,½ tsp,½ tsp,¼ tsp,Too Bland
+35,Male,Yes,None,Weekly,Yes,Never,Yes,No,Very Important,"Portable design, Adjustable intensity",Yes,Effectiveness,¼ tsp,No Salt,No Salt,No Salt,1 tsp,More than 1 tsp,No Salt,Too Bland
+20,Female,No,None,Monthly,No,Never,No,No,Very Important,"Mobile app integration, Portable design",Yes,Safety,No Salt,More than 1 tsp,1 tsp,1 tsp,More than 1 tsp,No Salt,More than 1 tsp,Too Salty
+43,Other,Yes,None,Daily,Sometimes,Never,No,No,Not Important,"Adjustable intensity, Dietary tracking features",Maybe,Safety,1 tsp,More than 1 tsp,No Salt,½ tsp,½ tsp,More than 1 tsp,½ tsp,Perfect
+53,Female,Yes,Other,Rarely,Sometimes,Sometimes,No,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",No,Effectiveness,½ tsp,1 tsp,½ tsp,1 tsp,¼ tsp,More than 1 tsp,¼ tsp,Too Bland
+61,Male,Yes,Other,Weekly,Sometimes,Sometimes,No,Yes,Very Important,"Portable design, Dietary tracking features",Yes,Safety,1 tsp,1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,½ tsp,1 tsp,Too Salty
+34,Other,Yes,None,Daily,Sometimes,Always,Yes,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",Yes,Price,½ tsp,½ tsp,½ tsp,½ tsp,More than 1 tsp,More than 1 tsp,½ tsp,Too Salty
+19,Female,Yes,Other,Weekly,Sometimes,Never,Yes,No,Moderately Important,"Mobile app integration, Dietary tracking features",Maybe,Price,1 tsp,No Salt,1 tsp,More than 1 tsp,½ tsp,1 tsp,¼ tsp,Perfect
+58,Female,No,None,Rarely,Yes,Always,Yes,No,Very Important,"Mobile app integration, Portable design",Maybe,Effectiveness,½ tsp,More than 1 tsp,1 tsp,½ tsp,1 tsp,½ tsp,More than 1 tsp,Too Bland
+46,Female,Yes,Kidney Disease,Daily,Yes,Never,Yes,No,Not Important,"Adjustable intensity, Dietary tracking features",Yes,Price,No Salt,No Salt,No Salt,1 tsp,More than 1 tsp,No Salt,No Salt,Too Salty
+51,Male,Yes,Other,Weekly,Yes,Never,No,No,Very Important,"Portable design, Mobile app integration",No,Price,¼ tsp,¼ tsp,More than 1 tsp,¼ tsp,No Salt,No Salt,½ tsp,Too Salty
+48,Female,No,None,Rarely,Yes,Never,Yes,No,Not Important,"Dietary tracking features, Mobile app integration",Maybe,Effectiveness,½ tsp,1 tsp,More than 1 tsp,¼ tsp,No Salt,1 tsp,½ tsp,Too Salty
+44,Female,Yes,Other,Daily,Yes,Never,Yes,No,Moderately Important,"Dietary tracking features, Mobile app integration",Yes,Price,1 tsp,½ tsp,No Salt,1 tsp,½ tsp,More than 1 tsp,¼ tsp,Perfect
+53,Female,Yes,None,Rarely,No,Always,Yes,No,Moderately Important,"Portable design, Dietary tracking features",Yes,Price,¼ tsp,More than 1 tsp,More than 1 tsp,½ tsp,½ tsp,More than 1 tsp,½ tsp,Too Salty
+30,Male,Yes,Kidney Disease,Monthly,Yes,Never,No,No,Moderately Important,"Dietary tracking features, Adjustable intensity",No,,¼ tsp,No Salt,More than 1 tsp,No Salt,¼ tsp,No Salt,½ tsp,Too Salty
+26,Other,No,None,Daily,Yes,Always,Yes,Yes,Moderately Important,"Portable design, Dietary tracking features",No,Effectiveness,1 tsp,½ tsp,1 tsp,No Salt,½ tsp,No Salt,¼ tsp,Perfect
+35,Female,Yes,None,Weekly,Yes,Sometimes,No,Yes,Very Important,"Portable design, Dietary tracking features",No,Safety,No Salt,¼ tsp,1 tsp,No Salt,More than 1 tsp,¼ tsp,1 tsp,Too Salty
+61,Female,No,None,Weekly,Sometimes,Never,Yes,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",No,Safety,½ tsp,No Salt,¼ tsp,No Salt,¼ tsp,1 tsp,½ tsp,Perfect
+28,Female,Yes,None,Weekly,Yes,Always,No,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",Yes,Price,No Salt,More than 1 tsp,½ tsp,No Salt,No Salt,½ tsp,¼ tsp,Too Bland
+52,Male,Yes,None,Weekly,No,Never,No,No,Not Important,"Portable design, Adjustable intensity",Maybe,Price,½ tsp,¼ tsp,½ tsp,No Salt,1 tsp,1 tsp,More than 1 tsp,Too Salty
+52,Other,No,None,Weekly,Sometimes,Always,No,No,Not Important,"Dietary tracking features, Portable design",Maybe,Safety,No Salt,More than 1 tsp,¼ tsp,1 tsp,½ tsp,½ tsp,More than 1 tsp,Too Salty
+47,Male,No,None,Weekly,Yes,Never,No,Yes,Moderately Important,"Adjustable intensity, Mobile app integration",Maybe,Price,¼ tsp,More than 1 tsp,1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,½ tsp,Too Salty
+44,Other,No,None,Daily,Yes,Never,Yes,Yes,Very Important,"Portable design, Adjustable intensity",Yes,,1 tsp,¼ tsp,No Salt,No Salt,More than 1 tsp,1 tsp,1 tsp,Too Bland
+57,Other,No,None,Daily,No,Always,Yes,Yes,Very Important,"Dietary tracking features, Adjustable intensity",No,,½ tsp,More than 1 tsp,1 tsp,½ tsp,No Salt,More than 1 tsp,½ tsp,Too Bland
+20,Other,Yes,Other,Daily,Yes,Never,Yes,Yes,Not Important,"Portable design, Mobile app integration",No,Safety,¼ tsp,More than 1 tsp,¼ tsp,More than 1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,Too Salty
+65,Male,No,None,Rarely,Sometimes,Never,No,Yes,Very Important,"Portable design, Mobile app integration",No,Effectiveness,¼ tsp,More than 1 tsp,More than 1 tsp,1 tsp,½ tsp,½ tsp,More than 1 tsp,Too Salty
+41,Female,No,None,Monthly,Sometimes,Always,Yes,No,Not Important,"Mobile app integration, Portable design",No,Price,1 tsp,No Salt,No Salt,½ tsp,More than 1 tsp,No Salt,More than 1 tsp,Perfect
+37,Male,No,None,Weekly,Yes,Sometimes,Yes,No,Not Important,"Portable design, Adjustable intensity",Yes,Price,½ tsp,¼ tsp,¼ tsp,½ tsp,½ tsp,More than 1 tsp,¼ tsp,Perfect
+34,Female,Yes,None,Weekly,Sometimes,Always,No,No,Very Important,"Dietary tracking features, Mobile app integration",Maybe,,More than 1 tsp,½ tsp,No Salt,More than 1 tsp,1 tsp,No Salt,No Salt,Too Salty
+40,Female,No,None,Daily,Yes,Never,Yes,No,Very Important,"Mobile app integration, Dietary tracking features",Yes,Effectiveness,More than 1 tsp,More than 1 tsp,¼ tsp,½ tsp,More than 1 tsp,¼ tsp,¼ tsp,Perfect
+61,Other,No,None,Rarely,Sometimes,Never,Yes,Yes,Moderately Important,"Mobile app integration, Portable design",Yes,Safety,½ tsp,No Salt,1 tsp,More than 1 tsp,No Salt,More than 1 tsp,1 tsp,Too Salty
+23,Female,No,None,Weekly,Yes,Sometimes,Yes,No,Moderately Important,"Portable design, Mobile app integration",Maybe,Safety,¼ tsp,No Salt,½ tsp,1 tsp,½ tsp,More than 1 tsp,No Salt,Perfect
+60,Female,No,None,Monthly,No,Always,No,No,Not Important,"Adjustable intensity, Portable design",Yes,Effectiveness,More than 1 tsp,1 tsp,More than 1 tsp,¼ tsp,1 tsp,No Salt,¼ tsp,Perfect
+61,Female,Yes,Hypertension,Daily,Sometimes,Always,Yes,Yes,Moderately Important,"Adjustable intensity, Portable design",Maybe,,½ tsp,1 tsp,1 tsp,No Salt,½ tsp,¼ tsp,More than 1 tsp,Perfect
+31,Other,No,None,Rarely,Sometimes,Never,Yes,Yes,Moderately Important,"Adjustable intensity, Portable design",Yes,,½ tsp,¼ tsp,More than 1 tsp,½ tsp,No Salt,1 tsp,No Salt,Perfect
+42,Other,No,None,Monthly,Yes,Always,No,No,Very Important,"Dietary tracking features, Mobile app integration",Maybe,,½ tsp,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,¼ tsp,¼ tsp,Too Bland
+47,Other,Yes,Hypertension,Weekly,Sometimes,Sometimes,No,No,Moderately Important,"Portable design, Adjustable intensity",No,Effectiveness,½ tsp,½ tsp,¼ tsp,More than 1 tsp,½ tsp,No Salt,½ tsp,Too Salty
+70,Male,No,None,Weekly,Yes,Sometimes,No,Yes,Very Important,"Dietary tracking features, Mobile app integration",Maybe,Safety,1 tsp,¼ tsp,More than 1 tsp,¼ tsp,1 tsp,½ tsp,More than 1 tsp,Too Salty
+46,Other,Yes,Kidney Disease,Weekly,Sometimes,Never,Yes,Yes,Moderately Important,"Portable design, Dietary tracking features",Yes,Safety,½ tsp,No Salt,More than 1 tsp,More than 1 tsp,No Salt,¼ tsp,½ tsp,Perfect
+64,Male,No,None,Rarely,No,Sometimes,No,No,Very Important,"Portable design, Adjustable intensity",Yes,Safety,No Salt,More than 1 tsp,More than 1 tsp,½ tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,Perfect
+56,Male,Yes,Hypertension,Monthly,Yes,Never,No,Yes,Not Important,"Dietary tracking features, Mobile app integration",Maybe,Effectiveness,¼ tsp,1 tsp,1 tsp,1 tsp,¼ tsp,¼ tsp,¼ tsp,Perfect
+20,Female,Yes,Other,Rarely,Yes,Never,Yes,Yes,Very Important,"Portable design, Dietary tracking features",Maybe,Price,½ tsp,1 tsp,¼ tsp,1 tsp,1 tsp,No Salt,More than 1 tsp,Too Bland
+70,Female,No,None,Rarely,Sometimes,Never,Yes,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",Yes,Price,No Salt,More than 1 tsp,1 tsp,More than 1 tsp,No Salt,¼ tsp,½ tsp,Too Salty
+43,Female,No,None,Rarely,Yes,Sometimes,No,Yes,Not Important,"Portable design, Dietary tracking features",Maybe,Price,No Salt,More than 1 tsp,No Salt,¼ tsp,More than 1 tsp,More than 1 tsp,¼ tsp,Too Salty
+44,Female,No,None,Daily,Yes,Sometimes,Yes,No,Very Important,"Mobile app integration, Portable design",Maybe,Safety,No Salt,No Salt,No Salt,1 tsp,½ tsp,No Salt,More than 1 tsp,Too Bland
+42,Other,Yes,None,Rarely,Yes,Always,No,Yes,Very Important,"Portable design, Adjustable intensity",Maybe,,1 tsp,½ tsp,½ tsp,1 tsp,½ tsp,¼ tsp,No Salt,Perfect
+30,Male,No,None,Daily,No,Sometimes,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Yes,Price,1 tsp,1 tsp,1 tsp,No Salt,More than 1 tsp,More than 1 tsp,No Salt,Perfect
+53,Female,Yes,Hypertension,Weekly,Yes,Always,No,Yes,Very Important,"Adjustable intensity, Mobile app integration",Maybe,Effectiveness,½ tsp,No Salt,No Salt,No Salt,1 tsp,¼ tsp,¼ tsp,Too Bland
+36,Other,Yes,None,Monthly,Yes,Always,No,No,Moderately Important,"Dietary tracking features, Adjustable intensity",No,,½ tsp,1 tsp,¼ tsp,No Salt,½ tsp,½ tsp,More than 1 tsp,Too Salty
+51,Male,Yes,Hypertension,Daily,Sometimes,Never,Yes,No,Not Important,"Mobile app integration, Portable design",Maybe,Effectiveness,½ tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,½ tsp,¼ tsp,More than 1 tsp,Too Bland
+49,Other,No,None,Rarely,Yes,Never,Yes,No,Very Important,"Adjustable intensity, Dietary tracking features",Yes,Price,No Salt,¼ tsp,More than 1 tsp,1 tsp,1 tsp,No Salt,½ tsp,Too Salty
+53,Other,Yes,Hypertension,Weekly,Sometimes,Sometimes,No,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",Maybe,Effectiveness,No Salt,No Salt,½ tsp,½ tsp,1 tsp,More than 1 tsp,More than 1 tsp,Perfect
+29,Male,No,None,Monthly,Sometimes,Sometimes,No,Yes,Not Important,"Portable design, Dietary tracking features",Yes,Price,More than 1 tsp,½ tsp,1 tsp,1 tsp,No Salt,More than 1 tsp,½ tsp,Too Bland
+64,Other,No,None,Daily,Yes,Never,No,No,Very Important,"Portable design, Dietary tracking features",Yes,Effectiveness,1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,1 tsp,¼ tsp,Too Bland
+25,Female,No,None,Daily,No,Sometimes,Yes,No,Very Important,"Mobile app integration, Portable design",No,Safety,More than 1 tsp,½ tsp,¼ tsp,No Salt,½ tsp,No Salt,¼ tsp,Perfect
+46,Other,Yes,None,Weekly,Yes,Sometimes,No,No,Moderately Important,"Portable design, Adjustable intensity",Maybe,Safety,¼ tsp,No Salt,1 tsp,1 tsp,More than 1 tsp,No Salt,No Salt,Too Salty
+20,Other,Yes,Other,Rarely,Yes,Always,No,Yes,Not Important,"Mobile app integration, Dietary tracking features",Yes,Effectiveness,¼ tsp,¼ tsp,½ tsp,½ tsp,More than 1 tsp,½ tsp,1 tsp,Too Bland
+25,Female,Yes,Kidney Disease,Monthly,Yes,Always,Yes,Yes,Not Important,"Mobile app integration, Dietary tracking features",No,Effectiveness,¼ tsp,½ tsp,More than 1 tsp,¼ tsp,¼ tsp,No Salt,½ tsp,Too Bland
+39,Other,No,None,Daily,Yes,Always,No,Yes,Very Important,"Dietary tracking features, Adjustable intensity",Yes,Price,1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,1 tsp,More than 1 tsp,½ tsp,Too Salty
+39,Male,Yes,None,Weekly,Yes,Never,No,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",Maybe,Price,1 tsp,¼ tsp,¼ tsp,¼ tsp,More than 1 tsp,½ tsp,½ tsp,Too Salty
+29,Other,No,None,Monthly,No,Sometimes,Yes,Yes,Moderately Important,"Adjustable intensity, Portable design",No,Price,¼ tsp,½ tsp,½ tsp,More than 1 tsp,More than 1 tsp,¼ tsp,More than 1 tsp,Perfect
+43,Other,Yes,Other,Daily,No,Never,No,No,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,Safety,More than 1 tsp,¼ tsp,1 tsp,1 tsp,No Salt,½ tsp,¼ tsp,Too Bland
+55,Female,No,None,Monthly,Sometimes,Never,Yes,Yes,Not Important,"Adjustable intensity, Mobile app integration",Maybe,Price,No Salt,More than 1 tsp,More than 1 tsp,1 tsp,½ tsp,More than 1 tsp,No Salt,Too Salty
+29,Female,No,None,Daily,Sometimes,Always,No,No,Moderately Important,"Adjustable intensity, Dietary tracking features",Yes,Safety,More than 1 tsp,No Salt,¼ tsp,¼ tsp,1 tsp,More than 1 tsp,½ tsp,Too Salty
+57,Other,No,None,Weekly,Yes,Never,No,No,Not Important,"Mobile app integration, Portable design",Maybe,Effectiveness,No Salt,More than 1 tsp,No Salt,More than 1 tsp,More than 1 tsp,1 tsp,¼ tsp,Too Salty
+21,Female,Yes,Hypertension,Monthly,Yes,Sometimes,Yes,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",No,Price,1 tsp,1 tsp,1 tsp,More than 1 tsp,¼ tsp,¼ tsp,1 tsp,Perfect
+30,Other,No,None,Monthly,No,Always,No,Yes,Very Important,"Adjustable intensity, Dietary tracking features",Maybe,,¼ tsp,1 tsp,1 tsp,¼ tsp,No Salt,¼ tsp,1 tsp,Too Salty
+68,Other,No,None,Weekly,No,Never,No,No,Moderately Important,"Mobile app integration, Adjustable intensity",Yes,Price,More than 1 tsp,No Salt,More than 1 tsp,1 tsp,¼ tsp,More than 1 tsp,½ tsp,Too Salty
+52,Other,No,None,Daily,Yes,Never,No,No,Very Important,"Dietary tracking features, Mobile app integration",Yes,Safety,More than 1 tsp,½ tsp,1 tsp,More than 1 tsp,No Salt,More than 1 tsp,More than 1 tsp,Perfect
+33,Female,Yes,Other,Daily,No,Never,Yes,No,Moderately Important,"Dietary tracking features, Mobile app integration",Maybe,Effectiveness,1 tsp,½ tsp,½ tsp,½ tsp,¼ tsp,No Salt,More than 1 tsp,Too Bland
+37,Other,No,None,Daily,Sometimes,Sometimes,Yes,Yes,Not Important,"Mobile app integration, Dietary tracking features",Maybe,,½ tsp,1 tsp,No Salt,¼ tsp,More than 1 tsp,No Salt,½ tsp,Too Salty
+26,Other,No,None,Monthly,No,Always,Yes,Yes,Not Important,"Portable design, Mobile app integration",No,Effectiveness,¼ tsp,½ tsp,¼ tsp,1 tsp,¼ tsp,More than 1 tsp,No Salt,Too Salty
+23,Male,Yes,None,Rarely,No,Always,No,Yes,Very Important,"Mobile app integration, Adjustable intensity",Maybe,Effectiveness,No Salt,No Salt,¼ tsp,1 tsp,1 tsp,1 tsp,½ tsp,Too Salty
+65,Other,Yes,None,Rarely,No,Sometimes,Yes,No,Very Important,"Mobile app integration, Portable design",No,Effectiveness,More than 1 tsp,No Salt,No Salt,More than 1 tsp,½ tsp,1 tsp,More than 1 tsp,Too Bland
+35,Female,No,None,Monthly,Yes,Sometimes,No,No,Not Important,"Portable design, Mobile app integration",Maybe,Safety,More than 1 tsp,½ tsp,¼ tsp,½ tsp,More than 1 tsp,No Salt,No Salt,Perfect
+18,Female,Yes,Hypertension,Rarely,No,Always,No,No,Very Important,"Adjustable intensity, Dietary tracking features",Maybe,,No Salt,More than 1 tsp,¼ tsp,More than 1 tsp,No Salt,No Salt,No Salt,Too Bland
+26,Female,Yes,Hypertension,Weekly,No,Sometimes,No,Yes,Not Important,"Dietary tracking features, Portable design",No,Effectiveness,½ tsp,¼ tsp,No Salt,½ tsp,No Salt,1 tsp,1 tsp,Too Salty
+21,Female,No,None,Weekly,No,Always,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,Price,No Salt,¼ tsp,More than 1 tsp,1 tsp,¼ tsp,More than 1 tsp,No Salt,Too Salty
+63,Female,Yes,Hypertension,Daily,Yes,Never,No,No,Very Important,"Dietary tracking features, Adjustable intensity",Maybe,,No Salt,1 tsp,½ tsp,¼ tsp,½ tsp,1 tsp,More than 1 tsp,Perfect
+50,Other,No,None,Rarely,No,Sometimes,Yes,Yes,Very Important,"Dietary tracking features, Mobile app integration",No,,More than 1 tsp,More than 1 tsp,½ tsp,½ tsp,½ tsp,1 tsp,No Salt,Too Bland
+59,Male,No,None,Monthly,Yes,Sometimes,No,Yes,Very Important,"Adjustable intensity, Portable design",Maybe,Safety,½ tsp,1 tsp,No Salt,½ tsp,1 tsp,No Salt,1 tsp,Too Bland
+30,Male,Yes,Kidney Disease,Daily,Sometimes,Never,Yes,No,Moderately Important,"Adjustable intensity, Mobile app integration",Maybe,Effectiveness,1 tsp,More than 1 tsp,1 tsp,No Salt,No Salt,½ tsp,No Salt,Too Salty
+68,Other,Yes,None,Daily,Yes,Never,No,Yes,Not Important,"Portable design, Adjustable intensity",Yes,Safety,1 tsp,No Salt,1 tsp,More than 1 tsp,No Salt,¼ tsp,¼ tsp,Perfect
+29,Other,Yes,Other,Daily,No,Never,Yes,Yes,Very Important,"Adjustable intensity, Portable design",Maybe,Safety,No Salt,¼ tsp,1 tsp,½ tsp,1 tsp,½ tsp,No Salt,Too Bland
+54,Other,Yes,Other,Weekly,Yes,Never,Yes,No,Very Important,"Adjustable intensity, Portable design",Yes,Price,¼ tsp,½ tsp,More than 1 tsp,¼ tsp,1 tsp,¼ tsp,More than 1 tsp,Perfect
+26,Male,No,None,Weekly,Yes,Sometimes,Yes,Yes,Very Important,"Portable design, Adjustable intensity",Maybe,Effectiveness,1 tsp,1 tsp,¼ tsp,¼ tsp,¼ tsp,½ tsp,More than 1 tsp,Too Salty
+44,Male,Yes,Hypertension,Weekly,Sometimes,Sometimes,Yes,No,Moderately Important,"Dietary tracking features, Adjustable intensity",Maybe,Safety,¼ tsp,No Salt,More than 1 tsp,No Salt,More than 1 tsp,½ tsp,More than 1 tsp,Too Bland
+32,Female,Yes,Other,Daily,Yes,Always,Yes,No,Moderately Important,"Portable design, Adjustable intensity",Maybe,,No Salt,½ tsp,½ tsp,¼ tsp,1 tsp,½ tsp,½ tsp,Too Bland
+69,Female,Yes,Hypertension,Daily,Sometimes,Always,Yes,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",Yes,Price,More than 1 tsp,More than 1 tsp,½ tsp,1 tsp,¼ tsp,½ tsp,¼ tsp,Perfect
+38,Male,Yes,Kidney Disease,Rarely,Yes,Sometimes,Yes,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",No,Safety,¼ tsp,More than 1 tsp,1 tsp,¼ tsp,1 tsp,½ tsp,¼ tsp,Too Salty
+64,Male,No,None,Monthly,Yes,Sometimes,Yes,Yes,Not Important,"Adjustable intensity, Portable design",Yes,,1 tsp,1 tsp,1 tsp,¼ tsp,½ tsp,¼ tsp,½ tsp,Too Bland
+28,Other,Yes,Kidney Disease,Daily,No,Never,No,Yes,Not Important,"Dietary tracking features, Portable design",No,,1 tsp,¼ tsp,¼ tsp,½ tsp,1 tsp,More than 1 tsp,¼ tsp,Too Bland
+27,Other,Yes,None,Daily,Yes,Sometimes,Yes,No,Not Important,"Dietary tracking features, Portable design",Maybe,,1 tsp,1 tsp,¼ tsp,No Salt,More than 1 tsp,No Salt,1 tsp,Perfect
+26,Female,No,None,Weekly,Sometimes,Always,Yes,No,Not Important,"Mobile app integration, Adjustable intensity",Maybe,Price,More than 1 tsp,More than 1 tsp,No Salt,1 tsp,1 tsp,¼ tsp,1 tsp,Perfect
+68,Female,No,None,Daily,Sometimes,Always,No,No,Not Important,"Adjustable intensity, Portable design",No,Effectiveness,More than 1 tsp,More than 1 tsp,More than 1 tsp,¼ tsp,No Salt,More than 1 tsp,½ tsp,Too Bland
+21,Other,No,None,Daily,Yes,Sometimes,No,No,Not Important,"Adjustable intensity, Portable design",No,Safety,More than 1 tsp,No Salt,More than 1 tsp,¼ tsp,¼ tsp,½ tsp,¼ tsp,Too Bland
+25,Other,No,None,Weekly,Sometimes,Always,No,No,Moderately Important,"Dietary tracking features, Portable design",Yes,,½ tsp,½ tsp,1 tsp,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,Too Salty
+63,Other,No,None,Rarely,Sometimes,Sometimes,Yes,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",No,Safety,½ tsp,No Salt,No Salt,¼ tsp,½ tsp,No Salt,¼ tsp,Too Salty
+27,Male,Yes,Other,Rarely,Sometimes,Never,Yes,No,Moderately Important,"Dietary tracking features, Portable design",Maybe,,½ tsp,¼ tsp,No Salt,No Salt,¼ tsp,More than 1 tsp,½ tsp,Too Salty
+55,Female,No,None,Rarely,Sometimes,Never,No,No,Moderately Important,"Portable design, Dietary tracking features",Yes,Effectiveness,¼ tsp,1 tsp,½ tsp,½ tsp,No Salt,¼ tsp,½ tsp,Too Salty
+47,Male,Yes,Other,Weekly,Yes,Never,Yes,Yes,Very Important,"Adjustable intensity, Dietary tracking features",No,Safety,1 tsp,½ tsp,½ tsp,¼ tsp,¼ tsp,More than 1 tsp,No Salt,Too Bland
+38,Female,Yes,Other,Rarely,Sometimes,Always,No,Yes,Very Important,"Dietary tracking features, Portable design",Yes,Price,½ tsp,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,½ tsp,½ tsp,Too Salty
+36,Other,Yes,None,Monthly,Sometimes,Always,No,Yes,Very Important,"Adjustable intensity, Portable design",Yes,Price,More than 1 tsp,¼ tsp,1 tsp,½ tsp,No Salt,½ tsp,No Salt,Too Bland
+59,Male,Yes,Other,Weekly,Yes,Always,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",No,Effectiveness,More than 1 tsp,More than 1 tsp,More than 1 tsp,No Salt,½ tsp,1 tsp,¼ tsp,Too Bland
+45,Female,No,None,Monthly,Yes,Sometimes,No,No,Moderately Important,"Dietary tracking features, Mobile app integration",Yes,Safety,1 tsp,1 tsp,1 tsp,½ tsp,¼ tsp,1 tsp,1 tsp,Perfect
+55,Other,Yes,Kidney Disease,Weekly,No,Sometimes,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Yes,Price,½ tsp,1 tsp,¼ tsp,More than 1 tsp,1 tsp,More than 1 tsp,¼ tsp,Perfect
+29,Female,No,None,Rarely,Yes,Sometimes,No,No,Not Important,"Dietary tracking features, Adjustable intensity",Yes,,¼ tsp,½ tsp,½ tsp,1 tsp,No Salt,½ tsp,1 tsp,Perfect
+49,Other,Yes,Hypertension,Daily,No,Sometimes,Yes,No,Not Important,"Dietary tracking features, Mobile app integration",No,Effectiveness,1 tsp,No Salt,½ tsp,More than 1 tsp,More than 1 tsp,No Salt,½ tsp,Perfect
+55,Male,Yes,Other,Rarely,Sometimes,Always,No,Yes,Very Important,"Mobile app integration, Portable design",No,Effectiveness,No Salt,½ tsp,½ tsp,More than 1 tsp,No Salt,More than 1 tsp,¼ tsp,Too Bland
+29,Male,Yes,Other,Monthly,Sometimes,Sometimes,No,No,Very Important,"Mobile app integration, Adjustable intensity",Yes,Safety,More than 1 tsp,½ tsp,½ tsp,1 tsp,1 tsp,½ tsp,¼ tsp,Perfect
+31,Male,Yes,Kidney Disease,Daily,No,Sometimes,Yes,Yes,Very Important,"Adjustable intensity, Portable design",No,Effectiveness,½ tsp,¼ tsp,1 tsp,More than 1 tsp,More than 1 tsp,½ tsp,¼ tsp,Too Bland
+37,Male,Yes,Kidney Disease,Weekly,Sometimes,Always,Yes,No,Very Important,"Portable design, Adjustable intensity",Yes,Price,No Salt,No Salt,No Salt,1 tsp,1 tsp,No Salt,¼ tsp,Perfect
+20,Other,Yes,None,Daily,No,Always,Yes,No,Not Important,"Adjustable intensity, Dietary tracking features",Yes,Safety,More than 1 tsp,¼ tsp,¼ tsp,½ tsp,No Salt,No Salt,¼ tsp,Too Bland
+35,Other,No,None,Monthly,Yes,Never,Yes,Yes,Very Important,"Adjustable intensity, Mobile app integration",Yes,Safety,½ tsp,¼ tsp,More than 1 tsp,No Salt,No Salt,¼ tsp,More than 1 tsp,Too Bland
+48,Female,Yes,None,Daily,Yes,Sometimes,No,No,Very Important,"Portable design, Dietary tracking features",Yes,Effectiveness,No Salt,1 tsp,No Salt,More than 1 tsp,¼ tsp,1 tsp,½ tsp,Too Bland
+36,Other,Yes,Hypertension,Monthly,No,Always,No,No,Moderately Important,"Mobile app integration, Dietary tracking features",No,Safety,More than 1 tsp,1 tsp,½ tsp,1 tsp,¼ tsp,No Salt,1 tsp,Too Bland
+41,Male,Yes,None,Daily,No,Sometimes,Yes,Yes,Very Important,"Dietary tracking features, Portable design",Maybe,,¼ tsp,No Salt,½ tsp,¼ tsp,½ tsp,¼ tsp,More than 1 tsp,Too Salty
+25,Male,No,None,Rarely,No,Never,No,No,Moderately Important,"Dietary tracking features, Mobile app integration",Maybe,Price,1 tsp,More than 1 tsp,½ tsp,¼ tsp,1 tsp,No Salt,No Salt,Too Salty
+49,Female,Yes,Kidney Disease,Daily,Yes,Never,Yes,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",No,Effectiveness,¼ tsp,½ tsp,More than 1 tsp,More than 1 tsp,No Salt,No Salt,More than 1 tsp,Too Salty
+68,Female,Yes,Other,Rarely,No,Never,No,No,Not Important,"Adjustable intensity, Dietary tracking features",No,,1 tsp,1 tsp,½ tsp,1 tsp,1 tsp,1 tsp,No Salt,Perfect
+29,Other,No,None,Weekly,No,Sometimes,Yes,No,Not Important,"Dietary tracking features, Portable design",Yes,Price,More than 1 tsp,More than 1 tsp,More than 1 tsp,1 tsp,1 tsp,More than 1 tsp,¼ tsp,Too Bland
+21,Female,No,None,Rarely,Sometimes,Sometimes,No,No,Moderately Important,"Adjustable intensity, Dietary tracking features",Maybe,,¼ tsp,½ tsp,½ tsp,More than 1 tsp,No Salt,½ tsp,1 tsp,Perfect
+45,Female,No,None,Rarely,No,Always,Yes,Yes,Very Important,"Mobile app integration, Dietary tracking features",Yes,,½ tsp,No Salt,½ tsp,¼ tsp,No Salt,More than 1 tsp,½ tsp,Perfect
+47,Other,No,None,Rarely,No,Always,No,Yes,Moderately Important,"Dietary tracking features, Mobile app integration",No,Effectiveness,More than 1 tsp,No Salt,1 tsp,No Salt,¼ tsp,½ tsp,1 tsp,Too Bland
+69,Other,No,None,Weekly,Sometimes,Sometimes,No,No,Very Important,"Dietary tracking features, Mobile app integration",Yes,Safety,½ tsp,½ tsp,No Salt,½ tsp,More than 1 tsp,1 tsp,¼ tsp,Too Bland
+65,Male,Yes,Other,Monthly,Yes,Never,No,No,Very Important,"Mobile app integration, Adjustable intensity",Maybe,Effectiveness,More than 1 tsp,½ tsp,1 tsp,More than 1 tsp,½ tsp,¼ tsp,1 tsp,Too Salty
+34,Other,No,None,Weekly,Yes,Never,Yes,No,Very Important,"Dietary tracking features, Portable design",Maybe,Price,More than 1 tsp,No Salt,More than 1 tsp,¼ tsp,½ tsp,1 tsp,¼ tsp,Perfect
+27,Other,No,None,Rarely,No,Sometimes,Yes,Yes,Moderately Important,"Mobile app integration, Portable design",Maybe,Safety,½ tsp,More than 1 tsp,¼ tsp,1 tsp,¼ tsp,No Salt,¼ tsp,Perfect
+19,Male,No,None,Rarely,No,Never,No,No,Not Important,"Adjustable intensity, Dietary tracking features",Yes,Effectiveness,¼ tsp,No Salt,½ tsp,½ tsp,More than 1 tsp,¼ tsp,No Salt,Too Bland
+49,Male,Yes,Hypertension,Monthly,Sometimes,Sometimes,Yes,No,Moderately Important,"Adjustable intensity, Portable design",Maybe,Safety,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,No Salt,More than 1 tsp,More than 1 tsp,Too Bland
+34,Female,Yes,Kidney Disease,Daily,No,Sometimes,No,Yes,Moderately Important,"Portable design, Adjustable intensity",Yes,Safety,¼ tsp,½ tsp,1 tsp,1 tsp,½ tsp,More than 1 tsp,No Salt,Too Salty
+52,Female,Yes,Other,Rarely,No,Never,Yes,No,Very Important,"Mobile app integration, Portable design",Maybe,Effectiveness,½ tsp,No Salt,More than 1 tsp,No Salt,No Salt,¼ tsp,½ tsp,Too Bland
+42,Female,No,None,Daily,Sometimes,Always,No,No,Very Important,"Dietary tracking features, Portable design",No,,¼ tsp,½ tsp,¼ tsp,¼ tsp,1 tsp,½ tsp,1 tsp,Perfect
+35,Male,No,None,Rarely,Sometimes,Sometimes,No,No,Very Important,"Portable design, Mobile app integration",No,,½ tsp,1 tsp,More than 1 tsp,More than 1 tsp,½ tsp,1 tsp,No Salt,Perfect
+59,Other,Yes,None,Weekly,Yes,Sometimes,Yes,No,Moderately Important,"Adjustable intensity, Dietary tracking features",Yes,Safety,More than 1 tsp,¼ tsp,More than 1 tsp,1 tsp,½ tsp,1 tsp,1 tsp,Too Bland
+26,Female,Yes,Other,Monthly,Yes,Always,No,No,Very Important,"Dietary tracking features, Portable design",Maybe,Safety,No Salt,No Salt,More than 1 tsp,More than 1 tsp,¼ tsp,No Salt,1 tsp,Perfect
+34,Other,Yes,Hypertension,Rarely,Sometimes,Sometimes,No,Yes,Very Important,"Mobile app integration, Adjustable intensity",Maybe,,No Salt,More than 1 tsp,1 tsp,1 tsp,1 tsp,No Salt,¼ tsp,Too Bland
+31,Male,No,None,Monthly,Sometimes,Sometimes,No,Yes,Moderately Important,"Portable design, Mobile app integration",Yes,Effectiveness,¼ tsp,1 tsp,¼ tsp,1 tsp,¼ tsp,No Salt,½ tsp,Too Salty
+33,Other,No,None,Weekly,No,Never,No,Yes,Very Important,"Dietary tracking features, Adjustable intensity",No,Price,¼ tsp,1 tsp,1 tsp,More than 1 tsp,½ tsp,No Salt,No Salt,Too Bland
+21,Male,No,None,Weekly,No,Sometimes,Yes,Yes,Moderately Important,"Dietary tracking features, Portable design",No,Effectiveness,¼ tsp,More than 1 tsp,No Salt,More than 1 tsp,¼ tsp,½ tsp,¼ tsp,Too Bland
+49,Female,No,None,Weekly,Yes,Sometimes,No,Yes,Moderately Important,"Adjustable intensity, Portable design",Yes,Safety,1 tsp,½ tsp,½ tsp,1 tsp,½ tsp,½ tsp,More than 1 tsp,Too Salty
+51,Female,No,None,Weekly,No,Never,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Yes,Safety,No Salt,¼ tsp,¼ tsp,No Salt,1 tsp,½ tsp,¼ tsp,Too Bland
+47,Female,Yes,None,Daily,No,Sometimes,No,No,Moderately Important,"Adjustable intensity, Mobile app integration",Yes,,½ tsp,No Salt,¼ tsp,½ tsp,¼ tsp,¼ tsp,More than 1 tsp,Too Salty
+54,Other,Yes,Hypertension,Weekly,No,Always,Yes,No,Not Important,"Adjustable intensity, Portable design",Yes,Effectiveness,No Salt,1 tsp,½ tsp,More than 1 tsp,No Salt,½ tsp,¼ tsp,Perfect
+23,Female,No,None,Rarely,Sometimes,Sometimes,Yes,No,Very Important,"Dietary tracking features, Portable design",Maybe,Safety,¼ tsp,No Salt,½ tsp,½ tsp,No Salt,No Salt,More than 1 tsp,Too Bland
+42,Male,No,None,Monthly,Yes,Always,No,Yes,Very Important,"Portable design, Adjustable intensity",No,Price,½ tsp,¼ tsp,No Salt,½ tsp,1 tsp,1 tsp,½ tsp,Too Bland
+56,Male,No,None,Daily,No,Never,Yes,No,Moderately Important,"Dietary tracking features, Portable design",No,Price,No Salt,1 tsp,½ tsp,More than 1 tsp,¼ tsp,1 tsp,1 tsp,Perfect
+20,Other,No,None,Rarely,Sometimes,Always,Yes,No,Not Important,"Adjustable intensity, Portable design",No,Price,No Salt,1 tsp,½ tsp,¼ tsp,¼ tsp,½ tsp,¼ tsp,Too Bland
+45,Female,Yes,Hypertension,Daily,Sometimes,Always,No,No,Very Important,"Dietary tracking features, Mobile app integration",Maybe,Effectiveness,½ tsp,½ tsp,More than 1 tsp,No Salt,More than 1 tsp,No Salt,No Salt,Too Bland
+60,Female,Yes,Kidney Disease,Rarely,Yes,Always,No,No,Moderately Important,"Dietary tracking features, Mobile app integration",No,Effectiveness,½ tsp,¼ tsp,¼ tsp,¼ tsp,No Salt,More than 1 tsp,½ tsp,Too Bland
+24,Female,Yes,Hypertension,Rarely,Yes,Always,Yes,No,Moderately Important,"Dietary tracking features, Mobile app integration",Maybe,Price,½ tsp,More than 1 tsp,More than 1 tsp,½ tsp,1 tsp,½ tsp,No Salt,Perfect
+26,Male,Yes,Hypertension,Daily,Sometimes,Always,Yes,Yes,Moderately Important,"Portable design, Mobile app integration",Yes,Price,More than 1 tsp,¼ tsp,No Salt,½ tsp,1 tsp,¼ tsp,1 tsp,Too Salty
+19,Male,Yes,Kidney Disease,Rarely,No,Sometimes,Yes,No,Not Important,"Portable design, Adjustable intensity",No,Price,No Salt,½ tsp,No Salt,No Salt,1 tsp,1 tsp,1 tsp,Too Bland
+55,Other,No,None,Daily,No,Sometimes,No,No,Very Important,"Adjustable intensity, Mobile app integration",Yes,Price,More than 1 tsp,½ tsp,More than 1 tsp,No Salt,½ tsp,1 tsp,1 tsp,Perfect
+49,Other,No,None,Rarely,Sometimes,Sometimes,Yes,Yes,Moderately Important,"Portable design, Dietary tracking features",No,Price,¼ tsp,More than 1 tsp,¼ tsp,More than 1 tsp,½ tsp,More than 1 tsp,1 tsp,Perfect
+36,Other,No,None,Rarely,Sometimes,Never,No,No,Very Important,"Portable design, Dietary tracking features",Maybe,,1 tsp,¼ tsp,¼ tsp,¼ tsp,¼ tsp,More than 1 tsp,1 tsp,Perfect
+68,Female,No,None,Monthly,Yes,Always,Yes,Yes,Moderately Important,"Mobile app integration, Portable design",Maybe,Safety,¼ tsp,More than 1 tsp,No Salt,No Salt,½ tsp,1 tsp,No Salt,Too Bland
+32,Male,Yes,None,Monthly,No,Sometimes,Yes,No,Very Important,"Adjustable intensity, Mobile app integration",Yes,Price,1 tsp,No Salt,No Salt,More than 1 tsp,More than 1 tsp,No Salt,More than 1 tsp,Perfect
+50,Male,Yes,Hypertension,Weekly,No,Always,No,No,Not Important,"Dietary tracking features, Mobile app integration",Yes,Safety,½ tsp,½ tsp,¼ tsp,No Salt,¼ tsp,1 tsp,1 tsp,Perfect
+33,Female,No,None,Monthly,Sometimes,Always,Yes,No,Moderately Important,"Dietary tracking features, Portable design",Maybe,Safety,¼ tsp,More than 1 tsp,1 tsp,¼ tsp,¼ tsp,1 tsp,1 tsp,Too Salty
+47,Other,No,None,Daily,No,Always,Yes,Yes,Very Important,"Mobile app integration, Portable design",No,Safety,1 tsp,No Salt,1 tsp,No Salt,¼ tsp,More than 1 tsp,No Salt,Too Bland
+63,Other,No,None,Rarely,No,Never,No,No,Moderately Important,"Adjustable intensity, Portable design",Maybe,Safety,1 tsp,1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,1 tsp,Too Bland
+40,Other,No,None,Weekly,No,Always,Yes,No,Moderately Important,"Portable design, Mobile app integration",Maybe,Effectiveness,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,Too Bland
+28,Male,Yes,Other,Weekly,No,Never,No,Yes,Not Important,"Adjustable intensity, Portable design",No,Effectiveness,No Salt,No Salt,No Salt,1 tsp,½ tsp,More than 1 tsp,No Salt,Too Salty
+39,Male,Yes,Other,Monthly,No,Never,Yes,No,Not Important,"Portable design, Adjustable intensity",No,Safety,½ tsp,1 tsp,No Salt,¼ tsp,1 tsp,1 tsp,No Salt,Perfect
+21,Female,Yes,None,Weekly,No,Always,No,No,Not Important,"Dietary tracking features, Portable design",Maybe,Price,1 tsp,1 tsp,1 tsp,1 tsp,¼ tsp,¼ tsp,More than 1 tsp,Perfect
+49,Other,No,None,Weekly,Sometimes,Never,Yes,Yes,Moderately Important,"Dietary tracking features, Adjustable intensity",Maybe,Safety,More than 1 tsp,½ tsp,No Salt,More than 1 tsp,1 tsp,No Salt,No Salt,Too Salty
+54,Female,Yes,Kidney Disease,Daily,No,Sometimes,No,No,Moderately Important,"Dietary tracking features, Adjustable intensity",Yes,Safety,More than 1 tsp,1 tsp,No Salt,½ tsp,½ tsp,¼ tsp,¼ tsp,Too Bland
+49,Male,Yes,Other,Daily,Yes,Sometimes,No,No,Not Important,"Dietary tracking features, Portable design",No,Price,More than 1 tsp,¼ tsp,¼ tsp,More than 1 tsp,1 tsp,1 tsp,1 tsp,Perfect
+64,Female,Yes,None,Rarely,Yes,Sometimes,No,Yes,Not Important,"Dietary tracking features, Mobile app integration",No,,¼ tsp,No Salt,More than 1 tsp,½ tsp,More than 1 tsp,No Salt,More than 1 tsp,Perfect
+30,Other,Yes,Kidney Disease,Rarely,Sometimes,Always,Yes,Yes,Very Important,"Mobile app integration, Adjustable intensity",Yes,Price,No Salt,More than 1 tsp,More than 1 tsp,½ tsp,1 tsp,More than 1 tsp,No Salt,Too Salty
+19,Female,No,None,Weekly,No,Always,No,No,Moderately Important,"Adjustable intensity, Dietary tracking features",Yes,Safety,½ tsp,¼ tsp,¼ tsp,½ tsp,No Salt,¼ tsp,½ tsp,Too Salty
+61,Male,Yes,Other,Weekly,Yes,Never,Yes,No,Moderately Important,"Adjustable intensity, Portable design",Yes,Price,½ tsp,½ tsp,1 tsp,No Salt,No Salt,¼ tsp,¼ tsp,Too Bland
+55,Male,No,None,Rarely,Yes,Sometimes,Yes,No,Moderately Important,"Dietary tracking features, Adjustable intensity",No,,1 tsp,¼ tsp,No Salt,½ tsp,More than 1 tsp,More than 1 tsp,No Salt,Perfect
+66,Other,Yes,Other,Rarely,No,Always,Yes,Yes,Moderately Important,"Portable design, Adjustable intensity",Maybe,Price,More than 1 tsp,1 tsp,No Salt,No Salt,1 tsp,More than 1 tsp,½ tsp,Too Bland
+28,Male,Yes,None,Monthly,Sometimes,Sometimes,No,No,Not Important,"Portable design, Mobile app integration",Maybe,Effectiveness,No Salt,¼ tsp,More than 1 tsp,More than 1 tsp,No Salt,½ tsp,No Salt,Too Salty
+62,Male,Yes,Other,Rarely,Yes,Never,No,No,Not Important,"Mobile app integration, Dietary tracking features",No,Effectiveness,¼ tsp,½ tsp,½ tsp,¼ tsp,1 tsp,More than 1 tsp,½ tsp,Perfect
+62,Male,Yes,None,Daily,Yes,Never,Yes,No,Not Important,"Dietary tracking features, Portable design",Maybe,,No Salt,More than 1 tsp,No Salt,1 tsp,No Salt,½ tsp,1 tsp,Too Bland
+40,Female,Yes,Hypertension,Daily,No,Sometimes,Yes,No,Very Important,"Portable design, Mobile app integration",Yes,Effectiveness,½ tsp,¼ tsp,No Salt,More than 1 tsp,½ tsp,¼ tsp,¼ tsp,Too Salty
+41,Male,No,None,Rarely,Sometimes,Never,Yes,Yes,Very Important,"Dietary tracking features, Adjustable intensity",No,Price,¼ tsp,More than 1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,¼ tsp,Perfect
+55,Male,Yes,Kidney Disease,Monthly,Sometimes,Always,No,Yes,Not Important,"Adjustable intensity, Mobile app integration",Maybe,Effectiveness,More than 1 tsp,1 tsp,No Salt,1 tsp,No Salt,½ tsp,1 tsp,Too Salty
+35,Male,No,None,Rarely,No,Never,Yes,Yes,Very Important,"Mobile app integration, Portable design",Maybe,Price,½ tsp,No Salt,1 tsp,¼ tsp,½ tsp,No Salt,More than 1 tsp,Perfect
+65,Male,No,None,Daily,Yes,Always,Yes,No,Moderately Important,"Adjustable intensity, Mobile app integration",Maybe,,No Salt,1 tsp,1 tsp,No Salt,More than 1 tsp,½ tsp,½ tsp,Perfect
+24,Female,Yes,Other,Daily,No,Never,Yes,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,Price,More than 1 tsp,No Salt,No Salt,No Salt,No Salt,1 tsp,½ tsp,Too Bland
+22,Male,Yes,None,Daily,No,Never,No,Yes,Very Important,"Adjustable intensity, Mobile app integration",Yes,Effectiveness,1 tsp,1 tsp,No Salt,More than 1 tsp,1 tsp,¼ tsp,More than 1 tsp,Too Bland
+57,Male,No,None,Rarely,No,Sometimes,Yes,No,Not Important,"Adjustable intensity, Portable design",Maybe,Effectiveness,More than 1 tsp,¼ tsp,No Salt,No Salt,No Salt,More than 1 tsp,No Salt,Too Bland
+68,Male,Yes,Other,Monthly,No,Sometimes,No,Yes,Very Important,"Portable design, Adjustable intensity",Yes,Safety,½ tsp,More than 1 tsp,1 tsp,More than 1 tsp,½ tsp,½ tsp,More than 1 tsp,Too Bland
+67,Male,Yes,None,Monthly,Sometimes,Sometimes,No,No,Very Important,"Portable design, Adjustable intensity",Yes,,1 tsp,½ tsp,¼ tsp,¼ tsp,¼ tsp,No Salt,½ tsp,Perfect
+60,Female,No,None,Monthly,Sometimes,Never,No,No,Moderately Important,"Mobile app integration, Adjustable intensity",Yes,Price,No Salt,1 tsp,¼ tsp,No Salt,¼ tsp,¼ tsp,1 tsp,Too Bland
+31,Male,No,None,Monthly,Sometimes,Sometimes,Yes,No,Very Important,"Adjustable intensity, Portable design",Yes,,½ tsp,No Salt,More than 1 tsp,No Salt,¼ tsp,½ tsp,1 tsp,Perfect
+58,Other,No,None,Daily,Yes,Always,Yes,No,Very Important,"Portable design, Dietary tracking features",Maybe,Safety,½ tsp,More than 1 tsp,¼ tsp,¼ tsp,¼ tsp,No Salt,¼ tsp,Too Salty
+24,Male,Yes,None,Daily,No,Always,No,No,Very Important,"Mobile app integration, Portable design",Maybe,Safety,More than 1 tsp,More than 1 tsp,1 tsp,No Salt,No Salt,¼ tsp,¼ tsp,Perfect
+30,Other,No,None,Monthly,No,Never,No,Yes,Very Important,"Portable design, Mobile app integration",No,Safety,½ tsp,¼ tsp,No Salt,½ tsp,¼ tsp,More than 1 tsp,More than 1 tsp,Too Salty
+31,Other,Yes,None,Daily,Yes,Never,No,No,Moderately Important,"Dietary tracking features, Adjustable intensity",No,Effectiveness,More than 1 tsp,1 tsp,1 tsp,1 tsp,½ tsp,More than 1 tsp,1 tsp,Too Bland
+68,Other,Yes,Kidney Disease,Weekly,Yes,Sometimes,Yes,No,Very Important,"Mobile app integration, Portable design",No,Safety,½ tsp,½ tsp,More than 1 tsp,No Salt,¼ tsp,No Salt,½ tsp,Too Salty
+51,Female,Yes,Hypertension,Rarely,Sometimes,Never,No,No,Moderately Important,"Dietary tracking features, Portable design",No,Effectiveness,1 tsp,½ tsp,½ tsp,1 tsp,No Salt,¼ tsp,1 tsp,Perfect
+34,Other,Yes,Other,Daily,No,Never,Yes,No,Very Important,"Adjustable intensity, Dietary tracking features",Yes,Effectiveness,No Salt,More than 1 tsp,¼ tsp,½ tsp,¼ tsp,½ tsp,½ tsp,Too Salty
+65,Other,No,None,Weekly,Sometimes,Never,Yes,No,Very Important,"Mobile app integration, Portable design",No,Price,1 tsp,More than 1 tsp,No Salt,1 tsp,More than 1 tsp,¼ tsp,1 tsp,Perfect
+32,Other,Yes,None,Weekly,Sometimes,Never,No,No,Moderately Important,"Adjustable intensity, Portable design",Yes,Price,1 tsp,¼ tsp,1 tsp,1 tsp,More than 1 tsp,No Salt,½ tsp,Perfect
+54,Male,No,None,Daily,No,Never,No,No,Very Important,"Dietary tracking features, Portable design",Maybe,Price,More than 1 tsp,½ tsp,½ tsp,More than 1 tsp,No Salt,More than 1 tsp,No Salt,Perfect
+27,Female,No,None,Rarely,Yes,Sometimes,Yes,No,Very Important,"Dietary tracking features, Adjustable intensity",No,Price,½ tsp,No Salt,¼ tsp,No Salt,More than 1 tsp,¼ tsp,No Salt,Too Bland
+56,Female,Yes,Kidney Disease,Weekly,Yes,Sometimes,No,Yes,Very Important,"Mobile app integration, Dietary tracking features",Maybe,,1 tsp,No Salt,½ tsp,More than 1 tsp,No Salt,¼ tsp,½ tsp,Too Salty
+43,Male,Yes,Kidney Disease,Rarely,No,Never,Yes,No,Very Important,"Portable design, Adjustable intensity",No,Price,1 tsp,¼ tsp,More than 1 tsp,More than 1 tsp,½ tsp,More than 1 tsp,¼ tsp,Too Bland
+63,Other,No,None,Monthly,Yes,Always,Yes,No,Very Important,"Dietary tracking features, Mobile app integration",Yes,Effectiveness,More than 1 tsp,1 tsp,1 tsp,1 tsp,More than 1 tsp,No Salt,No Salt,Too Salty
+59,Female,No,None,Monthly,No,Never,Yes,No,Very Important,"Portable design, Mobile app integration",Maybe,Price,1 tsp,1 tsp,¼ tsp,More than 1 tsp,No Salt,1 tsp,No Salt,Perfect
+28,Female,No,None,Daily,Sometimes,Never,Yes,No,Moderately Important,"Adjustable intensity, Portable design",Yes,,More than 1 tsp,½ tsp,1 tsp,1 tsp,¼ tsp,½ tsp,¼ tsp,Too Bland
+20,Female,Yes,Hypertension,Rarely,No,Sometimes,No,Yes,Moderately Important,"Adjustable intensity, Dietary tracking features",No,,¼ tsp,½ tsp,1 tsp,1 tsp,1 tsp,No Salt,No Salt,Too Bland
+60,Male,No,None,Weekly,No,Sometimes,Yes,Yes,Very Important,"Adjustable intensity, Dietary tracking features",No,,More than 1 tsp,1 tsp,¼ tsp,No Salt,No Salt,½ tsp,¼ tsp,Too Salty
+40,Male,Yes,Hypertension,Weekly,No,Never,Yes,Yes,Moderately Important,"Mobile app integration, Portable design",Yes,,No Salt,1 tsp,¼ tsp,¼ tsp,½ tsp,¼ tsp,¼ tsp,Perfect
+19,Female,Yes,Hypertension,Monthly,Yes,Never,Yes,Yes,Very Important,"Portable design, Mobile app integration",Yes,,1 tsp,More than 1 tsp,No Salt,½ tsp,½ tsp,More than 1 tsp,¼ tsp,Too Bland
+31,Other,No,None,Rarely,Yes,Always,Yes,Yes,Moderately Important,"Mobile app integration, Adjustable intensity",Yes,Price,½ tsp,No Salt,1 tsp,¼ tsp,1 tsp,¼ tsp,No Salt,Too Bland
+70,Female,No,None,Daily,Yes,Always,No,No,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,Safety,½ tsp,No Salt,More than 1 tsp,½ tsp,1 tsp,¼ tsp,½ tsp,Perfect
+58,Other,No,None,Rarely,Yes,Sometimes,Yes,No,Moderately Important,"Portable design, Mobile app integration",Maybe,,¼ tsp,No Salt,More than 1 tsp,No Salt,½ tsp,¼ tsp,1 tsp,Perfect
+57,Male,Yes,Kidney Disease,Monthly,No,Sometimes,Yes,Yes,Moderately Important,"Portable design, Mobile app integration",Yes,Safety,More than 1 tsp,1 tsp,½ tsp,¼ tsp,½ tsp,½ tsp,No Salt,Too Bland
+68,Female,No,None,Daily,Yes,Never,No,No,Very Important,"Portable design, Mobile app integration",Yes,Safety,¼ tsp,More than 1 tsp,1 tsp,More than 1 tsp,½ tsp,¼ tsp,1 tsp,Too Bland
+18,Male,No,None,Daily,Yes,Always,Yes,Yes,Very Important,"Adjustable intensity, Dietary tracking features",Maybe,Safety,¼ tsp,More than 1 tsp,No Salt,1 tsp,1 tsp,½ tsp,¼ tsp,Too Bland
+30,Male,No,None,Weekly,Sometimes,Always,No,No,Not Important,"Dietary tracking features, Mobile app integration",Yes,Effectiveness,1 tsp,No Salt,½ tsp,1 tsp,1 tsp,¼ tsp,1 tsp,Too Salty
+45,Other,No,None,Weekly,No,Always,No,No,Very Important,"Mobile app integration, Dietary tracking features",Maybe,Safety,More than 1 tsp,¼ tsp,½ tsp,1 tsp,1 tsp,½ tsp,1 tsp,Too Salty
+42,Other,No,None,Daily,No,Always,No,Yes,Very Important,"Portable design, Adjustable intensity",Yes,Effectiveness,1 tsp,1 tsp,1 tsp,1 tsp,½ tsp,1 tsp,1 tsp,Too Salty
+59,Other,Yes,None,Daily,Yes,Sometimes,Yes,Yes,Moderately Important,"Mobile app integration, Dietary tracking features",No,Price,½ tsp,No Salt,1 tsp,1 tsp,¼ tsp,¼ tsp,1 tsp,Perfect
+70,Female,Yes,Kidney Disease,Monthly,Sometimes,Sometimes,Yes,No,Very Important,"Portable design, Adjustable intensity",Yes,,1 tsp,1 tsp,More than 1 tsp,No Salt,More than 1 tsp,¼ tsp,1 tsp,Perfect
+45,Female,No,None,Rarely,Sometimes,Sometimes,No,Yes,Very Important,"Mobile app integration, Adjustable intensity",No,Safety,1 tsp,½ tsp,No Salt,¼ tsp,1 tsp,No Salt,No Salt,Perfect
+67,Other,No,None,Rarely,Sometimes,Sometimes,No,Yes,Very Important,"Mobile app integration, Adjustable intensity",Maybe,Safety,¼ tsp,1 tsp,¼ tsp,More than 1 tsp,No Salt,1 tsp,More than 1 tsp,Perfect
+29,Male,Yes,Kidney Disease,Weekly,No,Sometimes,No,Yes,Not Important,"Portable design, Adjustable intensity",No,,1 tsp,No Salt,½ tsp,No Salt,½ tsp,No Salt,More than 1 tsp,Perfect
+48,Female,Yes,Hypertension,Daily,No,Always,Yes,Yes,Very Important,"Adjustable intensity, Portable design",Maybe,Effectiveness,1 tsp,1 tsp,½ tsp,More than 1 tsp,1 tsp,½ tsp,½ tsp,Too Bland
+39,Female,Yes,Other,Rarely,No,Never,Yes,No,Moderately Important,"Adjustable intensity, Dietary tracking features",No,Price,¼ tsp,No Salt,More than 1 tsp,No Salt,More than 1 tsp,½ tsp,¼ tsp,Too Salty
+46,Other,No,None,Rarely,Sometimes,Always,Yes,No,Very Important,"Mobile app integration, Adjustable intensity",Maybe,Effectiveness,1 tsp,¼ tsp,More than 1 tsp,1 tsp,1 tsp,More than 1 tsp,No Salt,Too Salty
+45,Female,Yes,None,Monthly,Sometimes,Always,Yes,Yes,Very Important,"Dietary tracking features, Adjustable intensity",No,Price,¼ tsp,1 tsp,No Salt,1 tsp,More than 1 tsp,¼ tsp,¼ tsp,Perfect
+28,Other,Yes,Hypertension,Rarely,Sometimes,Always,Yes,No,Moderately Important,"Mobile app integration, Adjustable intensity",Maybe,Effectiveness,1 tsp,No Salt,¼ tsp,More than 1 tsp,1 tsp,No Salt,½ tsp,Perfect
+54,Other,Yes,Other,Rarely,Sometimes,Never,No,No,Very Important,"Portable design, Dietary tracking features",Yes,Effectiveness,No Salt,No Salt,No Salt,½ tsp,More than 1 tsp,¼ tsp,No Salt,Too Bland
+41,Male,No,None,Rarely,Sometimes,Never,Yes,No,Very Important,"Portable design, Dietary tracking features",No,Effectiveness,½ tsp,¼ tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,¼ tsp,No Salt,Too Salty
+18,Other,No,None,Monthly,Yes,Sometimes,Yes,No,Not Important,"Dietary tracking features, Adjustable intensity",Maybe,Effectiveness,¼ tsp,No Salt,More than 1 tsp,½ tsp,½ tsp,More than 1 tsp,No Salt,Too Salty
+63,Other,No,None,Weekly,No,Sometimes,No,Yes,Moderately Important,"Portable design, Mobile app integration",Yes,Safety,No Salt,¼ tsp,1 tsp,1 tsp,½ tsp,¼ tsp,No Salt,Too Bland
+43,Female,No,None,Rarely,No,Sometimes,No,Yes,Not Important,"Mobile app integration, Portable design",Maybe,Safety,More than 1 tsp,1 tsp,No Salt,¼ tsp,½ tsp,More than 1 tsp,No Salt,Too Bland
+37,Female,Yes,Kidney Disease,Rarely,Sometimes,Sometimes,No,Yes,Very Important,"Portable design, Mobile app integration",Yes,,½ tsp,More than 1 tsp,No Salt,¼ tsp,1 tsp,1 tsp,¼ tsp,Perfect
+24,Female,No,None,Weekly,Yes,Always,No,No,Very Important,"Dietary tracking features, Adjustable intensity",Yes,,¼ tsp,1 tsp,1 tsp,½ tsp,More than 1 tsp,¼ tsp,1 tsp,Too Bland
+68,Other,Yes,None,Rarely,No,Never,No,No,Very Important,"Adjustable intensity, Dietary tracking features",Yes,,1 tsp,More than 1 tsp,¼ tsp,No Salt,More than 1 tsp,More than 1 tsp,More than 1 tsp,Too Salty
+35,Other,Yes,Kidney Disease,Rarely,No,Never,No,No,Not Important,"Portable design, Adjustable intensity",No,,More than 1 tsp,¼ tsp,1 tsp,No Salt,1 tsp,More than 1 tsp,More than 1 tsp,Too Bland
+49,Male,Yes,Kidney Disease,Daily,Yes,Never,Yes,Yes,Not Important,"Dietary tracking features, Portable design",Yes,,¼ tsp,More than 1 tsp,¼ tsp,¼ tsp,No Salt,More than 1 tsp,½ tsp,Perfect
+23,Male,No,None,Monthly,Sometimes,Always,No,Yes,Very Important,"Mobile app integration, Adjustable intensity",Maybe,Effectiveness,More than 1 tsp,1 tsp,¼ tsp,More than 1 tsp,1 tsp,½ tsp,More than 1 tsp,Too Salty
+56,Other,Yes,Hypertension,Daily,Yes,Always,Yes,Yes,Moderately Important,"Portable design, Adjustable intensity",Maybe,Safety,More than 1 tsp,½ tsp,½ tsp,¼ tsp,More than 1 tsp,1 tsp,No Salt,Too Bland
+34,Female,No,None,Weekly,No,Sometimes,Yes,No,Not Important,"Dietary tracking features, Mobile app integration",Yes,Safety,No Salt,½ tsp,¼ tsp,½ tsp,More than 1 tsp,More than 1 tsp,More than 1 tsp,Perfect
+44,Male,No,None,Rarely,No,Always,Yes,Yes,Moderately Important,"Adjustable intensity, Mobile app integration",Yes,Price,No Salt,½ tsp,No Salt,½ tsp,½ tsp,½ tsp,¼ tsp,Perfect
+35,Male,Yes,None,Weekly,No,Always,Yes,Yes,Not Important,"Mobile app integration, Dietary tracking features",No,,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,More than 1 tsp,½ tsp,More than 1 tsp,Perfect
+21,Male,No,None,Rarely,Yes,Sometimes,No,No,Not Important,"Portable design, Dietary tracking features",Yes,Safety,¼ tsp,¼ tsp,1 tsp,More than 1 tsp,½ tsp,No Salt,½ tsp,Too Bland
+67,Male,No,None,Rarely,Yes,Sometimes,No,No,Not Important,"Mobile app integration, Portable design",No,Safety,½ tsp,No Salt,½ tsp,1 tsp,½ tsp,No Salt,No Salt,Perfect
+64,Male,Yes,Kidney Disease,Daily,Yes,Never,No,No,Very Important,"Dietary tracking features, Mobile app integration",Maybe,Safety,1 tsp,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,1 tsp,No Salt,Too Bland
+30,Other,Yes,None,Monthly,Yes,Never,Yes,No,Very Important,"Portable design, Adjustable intensity",Yes,Effectiveness,¼ tsp,More than 1 tsp,½ tsp,No Salt,1 tsp,1 tsp,1 tsp,Perfect
+41,Male,No,None,Weekly,Sometimes,Always,No,No,Moderately Important,"Mobile app integration, Portable design",Yes,,More than 1 tsp,1 tsp,¼ tsp,½ tsp,More than 1 tsp,No Salt,1 tsp,Too Bland
+49,Male,No,None,Daily,Sometimes,Sometimes,No,No,Moderately Important,"Adjustable intensity, Dietary tracking features",No,Safety,1 tsp,½ tsp,No Salt,No Salt,1 tsp,1 tsp,¼ tsp,Perfect
+51,Other,Yes,None,Daily,No,Always,Yes,No,Very Important,"Dietary tracking features, Portable design",No,Effectiveness,½ tsp,1 tsp,¼ tsp,More than 1 tsp,½ tsp,No Salt,1 tsp,Too Bland
+46,Male,Yes,Other,Rarely,Yes,Sometimes,Yes,Yes,Very Important,"Mobile app integration, Adjustable intensity",Yes,Price,1 tsp,½ tsp,No Salt,¼ tsp,¼ tsp,1 tsp,½ tsp,Perfect
+44,Female,No,None,Weekly,No,Sometimes,No,Yes,Very Important,"Adjustable intensity, Dietary tracking features",Yes,Safety,½ tsp,More than 1 tsp,No Salt,¼ tsp,No Salt,½ tsp,1 tsp,Too Bland
+65,Male,No,None,Rarely,No,Sometimes,No,Yes,Moderately Important,"Portable design, Mobile app integration",Yes,Safety,¼ tsp,½ tsp,No Salt,½ tsp,¼ tsp,1 tsp,¼ tsp,Too Salty
+63,Male,Yes,Kidney Disease,Weekly,Yes,Always,Yes,No,Very Important,"Mobile app integration, Adjustable intensity",Yes,Price,No Salt,More than 1 tsp,¼ tsp,No Salt,No Salt,1 tsp,1 tsp,Too Bland
+37,Other,Yes,Kidney Disease,Monthly,No,Sometimes,Yes,No,Not Important,"Adjustable intensity, Portable design",Yes,Effectiveness,½ tsp,½ tsp,½ tsp,1 tsp,¼ tsp,½ tsp,No Salt,Perfect
+20,Male,Yes,Other,Weekly,No,Sometimes,No,Yes,Moderately Important,"Portable design, Dietary tracking features",No,Effectiveness,½ tsp,½ tsp,No Salt,No Salt,No Salt,More than 1 tsp,¼ tsp,Too Salty
+41,Other,No,None,Monthly,Yes,Never,No,Yes,Not Important,"Dietary tracking features, Adjustable intensity",Yes,Safety,More than 1 tsp,No Salt,No Salt,More than 1 tsp,¼ tsp,¼ tsp,1 tsp,Perfect
+22,Other,No,None,Monthly,Sometimes,Sometimes,Yes,Yes,Very Important,"Portable design, Adjustable intensity",No,Effectiveness,More than 1 tsp,½ tsp,½ tsp,1 tsp,No Salt,1 tsp,No Salt,Too Salty
+44,Other,Yes,Kidney Disease,Monthly,Sometimes,Always,No,Yes,Not Important,"Adjustable intensity, Mobile app integration",Yes,Price,1 tsp,More than 1 tsp,More than 1 tsp,No Salt,¼ tsp,1 tsp,More than 1 tsp,Too Salty
+53,Female,No,None,Monthly,Yes,Always,Yes,Yes,Not Important,"Portable design, Mobile app integration",Maybe,,More than 1 tsp,1 tsp,More than 1 tsp,More than 1 tsp,½ tsp,½ tsp,¼ tsp,Too Salty
+63,Female,Yes,Kidney Disease,Weekly,Yes,Never,Yes,No,Very Important,"Portable design, Dietary tracking features",Yes,Effectiveness,No Salt,¼ tsp,¼ tsp,More than 1 tsp,No Salt,No Salt,½ tsp,Too Bland
+56,Female,No,None,Daily,Sometimes,Never,No,Yes,Moderately Important,"Mobile app integration, Portable design",Yes,,½ tsp,¼ tsp,½ tsp,¼ tsp,½ tsp,No Salt,More than 1 tsp,Too Bland
