@@ -102,31 +102,6 @@ Query: The app executes SELECT * FROM smart_spoon_survey and then applies light 
 
 Optional view: A sample view for age-group purchase interest is included in db.py.
 
-🌐 Deploy (Streamlit Cloud)
-
-Push this repo with requirements.txt to GitHub.
-
-Create a new Streamlit app and set smart_spoon_analytics.py as the entry.
-
-If OpenCV causes build issues, use opencv-python-headless in requirements.txt.
-
-Optional first-run DB creation inside the app:
-
-from pathlib import Path
-
-if not Path("smart_spoon.db").exists():
-
-from load_csv_to_db import main as load_main
-
-load_main()
-
-📸 Screenshots
-(Add 2–3 screenshots of each tab here.)
-
-🤝 Contributing
-
-Fork → create feature branch → commit changes → open a pull request.
-
 📝 License
 
 MIT (or your chosen license). Add a LICENSE file in the repo root.
